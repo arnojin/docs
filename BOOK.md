@@ -1,23 +1,5 @@
 # 文章
 
-* http://blog.csdn.net/wucuiling666/article/details/72876688
-* http://blog.csdn.net/gamer_gyt/article/details/55225700
-* http://blog.csdn.net/post_yuan/article/details/54926640
-* http://blog.csdn.net/gdmzlhj1/article/details/50483171
-* http://archive.cloudera.com/cdh5/cdh/5/sqoop/SqoopUserGuide.html
-* http://archive.cloudera.com/cdh5/cdh/5/sqoop/SqoopDevGuide.html
-* http://archive.cloudera.com/cdh5/cdh/5/sqoop/api/index.html
-* https://www.cnblogs.com/invban/p/5673517.html
-* http://orafaq.com/wiki/Tnsnames.ora
-* http://orafaq.com/wiki/Listener.ora
-* http://blog.csdn.net/csfreebird/article/details/37767125
-* https://10az.online.tableau.com/#/site/demodepot/workbooks
-* http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm
-* https://www.cnblogs.com/hei12138/p/ideausedocker.html
-* http://www.ukettle.org/thread-256-1-1.html
-* http://blog.csdn.net/e62ces0iem/article/details/73550869
-* http://blog.csdn.net/dream_angel_z/article/details/49335607
-
 ## shell
 
 * [sh脚本异常：/bin/sh^M:bad interpreter: No such file or directory](https://www.cnblogs.com/houpeiyong/p/5942834.html)
@@ -91,17 +73,17 @@
 * [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure](https://zhidao.baidu.com/question/623417115070490444.html)
 * [java - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link](https://stackoverflow.com/questions/12593634/com-mysql-jdbc-exceptions-jdbc4-communicationsexception-communications-link)
 * [spark on yarn cluster部署中遇到的坑](http://evenx86.github.io/2016/10/11/spark-submit-on-yarn/)
+
+## Maven
+
+* [maven国内镜像](https://www.cnblogs.com/faunjoe88/p/7691125.html)
+* [IntelliJ IDEA创建maven多模块项目](https://www.cnblogs.com/wangmingshun/p/6383576.html)
 * [Maven Repository: Cloudera](https://mvnrepository.com/repos/cloudera)
 * [Maven Repository: org.apache.hive » hive-jdbc » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-jdbc/1.1.0-cdh5.12.0)
 * [Maven Repository: org.apache.hive » hive-exec » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-exec/1.1.0-cdh5.12.0)
 * [maven中加载Oracle驱动报错问题](http://blog.csdn.net/maobois/article/details/51884179)
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
-
-## Maven
-
-* [maven国内镜像](https://www.cnblogs.com/faunjoe88/p/7691125.html)
-* [IntelliJ IDEA创建maven多模块项目](https://www.cnblogs.com/wangmingshun/p/6383576.html)
 
 ## Docker
 
@@ -120,3 +102,23 @@
 ## Visual Studio Code
 
 * [VS Code中转换大小写功能](http://blog.csdn.net/u011127019/article/details/78079504)
+
+## 其他
+
+* http://blog.csdn.net/wucuiling666/article/details/72876688
+* http://blog.csdn.net/gamer_gyt/article/details/55225700
+* http://blog.csdn.net/post_yuan/article/details/54926640
+* http://blog.csdn.net/gdmzlhj1/article/details/50483171
+* http://archive.cloudera.com/cdh5/cdh/5/sqoop/SqoopUserGuide.html
+* http://archive.cloudera.com/cdh5/cdh/5/sqoop/SqoopDevGuide.html
+* http://archive.cloudera.com/cdh5/cdh/5/sqoop/api/index.html
+* https://www.cnblogs.com/invban/p/5673517.html
+* http://orafaq.com/wiki/Tnsnames.ora
+* http://orafaq.com/wiki/Listener.ora
+* http://blog.csdn.net/csfreebird/article/details/37767125
+* https://10az.online.tableau.com/#/site/demodepot/workbooks
+* http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm
+* https://www.cnblogs.com/hei12138/p/ideausedocker.html
+* http://www.ukettle.org/thread-256-1-1.html
+* http://blog.csdn.net/e62ces0iem/article/details/73550869
+* http://blog.csdn.net/dream_angel_z/article/details/49335607
