@@ -1,22 +1,59 @@
 # 文章
 
+## Architect
+
+* [使用EA逆向生成数据库E-R图](http://www.cnblogs.com/davidgu/archive/2013/08/17/3264017.html)
+* [在EA中画ER图和数据模型图](http://blog.csdn.net/lostspeed/article/details/8241681)
+* [E-R图 - springside例子](http://www.cnblogs.com/springside-example/archive/2011/10/13/2530201.html)
+* [Enterprise Architect多人协作方法（通过MySQL服务器共享）](http://blog.csdn.net/jaketseng/article/details/8145845)
+* [enterprise architect 连接mysql odbc](http://blog.csdn.net/bornjasoncen/article/details/8852070)
+* [EA(Enterprise Architect)建立数据模型间外键约束](http://www.cnblogs.com/yinluhui0229/archive/2011/05/30/2062980.html)
+
 ## CDH
 
+* [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
+* [2018-02-05 从入门到精通 - Fayson带你玩转CDH](http://mp.weixin.qq.com/s/FgjVnQv6tsnhN_-Fl9vvzA)
 * [cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
 * [Cloudera Manager(CDH5)内部结构、功能包括配置文件、目录位置等](http://blog.csdn.net/levy_cui/article/details/51507950)
 
+## Consul
+
+* [Consul](https://www.consul.io/intro/getting-started/install.html)
+* [Consul.NET](https://github.com/PlayFab/consuldotnet)
+* [2015-08-02 分布式服务注册和发现consul 简要介绍](http://www.cnblogs.com/shanyou/p/4695131.html)
+
 ## Docker
 
-* [定位“kubernetes pod卡在ContainerCreating状态”问题的方法](http://blog.csdn.net/xts_huangxin/article/details/51130223)
-* [kubernetes Pod 调度到指定的 Node](http://blog.csdn.net/asdf57847225/article/details/78303190)
-* [Kubernetes用户指南（一）--快速开始、使用k8s配置文件](http://blog.csdn.net/qq1010885678/article/details/48832067)
-* [kubernetes 创建nginx 容器](https://www.cnblogs.com/hutuchong/p/7787888.html)
-* [kubernetes中port、target port、node port的对比分析，以及kube-proxy代理](http://blog.csdn.net/xinghun_4/article/details/50492041)
+* [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/) [GitHub](https://github.com/docker/docker)
+* [2014-05-15 Docker Dockerfile详解](http://blog.csdn.net/wsscy2004/article/details/25878223)
+* [2014-08-02 使用Docker建立一个动态负载平衡的分布式Web系统](http://www.jdon.com/46580)
+* [2014-08-02 Docker学习笔记（1）-- 如何安装Docker](http://blog.csdn.net/we_shell/article/details/38352837)
+* [2014-08-04 Docker学习笔记(2)--Docker常用命令](http://blog.csdn.net/we_shell/article/details/38368137)
+* [2014-08-08 Docker学习笔记（3）-- 如何使用Dockerfile构建镜像](http://blog.csdn.net/we_shell/article/details/38445979)
+* [2014-10-15 阿里云Ubuntu环境搭建Docker服务](http://blog.csdn.net/minimicall/article/details/40108305) [2](http://blog.csdn.net/minimicall/article/details/40119177) [3](https://bbs.aliyun.com/read/152090.html?ordertype=desc&displayMode=1)
+* [2014-12-24 Ubuntu14.04下如何配置固定IP](http://jingyan.baidu.com/article/e5c39bf5bbe0e739d7603396.html)
+* [2014-05-15 常用docker命令，及一些坑](http://blog.csdn.net/wsscy2004/article/details/25878363)
+* [2014-05-16 Docker Container同时启动多服务](http://blog.csdn.net/wsscy2004/article/details/25980675)
+* [2015-02-03 Docker 特权参数 privileged](http://blog.csdn.net/halcyonbaby/article/details/43499409)
+* [2015-03-06 Docker的四种网络方式](http://www.open-open.com/lib/view/open1425625410243.html)
+* [2015-04-24 生产环境下如何部署Docker Registry](http://dockone.io/article/338?utm_source=tuicool&utm_medium=referral)
+* [2015-08-06 Docker建立容器后在宿主机上的规则](http://bingotree.cn/?p=826&utm_source=tuicool&utm_medium=referral)
+* [2015-10-28 Docker Registry V2(distribution) & Proxy(nginx) 的搭建经历](http://unixman.blog.51cto.com/10163040/1707423)
+* [2015-10-29 Docker私有仓库Registry的搭建验证](http://www.cnblogs.com/lienhua34/p/4922130.html)
+* [2015-11-19 有关Docker的八个令人难以置信的事实](http://developer.51cto.com/art/201511/497865.htm)
+* [2016-01-08 .NET开发者启程Docker之路](http://my.oschina.net/kernalsky/blog/599345)
+* [2016-01-14 如何使用Docker开源仓库建立代理缓存仓库](https://zhidao.baidu.com/question/1769171559541258780.html)
+* [2016-03-01 使用 Docker 容器应该避免的 10 个事情](https://www.oschina.net/translate/10-things-to-avoid-in-docker-containers)
+* [2016-03-22 【Docker实战】Registry & Portus搭建详解](http://dockone.io/article/1151)
 
 ## Git
 
 * [git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
 * [Windows下使用git push命令的无密码设置](http://blog.csdn.net/dream_angel_z/article/details/49335607)
+* [2014-03-27 svn 迁移到git下全过程](http://www.aikaiyuan.com/6584.html)
+* [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
+* [2014-07-23 git服务器gitlab之搭建和使用](http://blog.csdn.net/zy416548283/article/details/38057925)
+* [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
 
 ## Hive 数据类型
 
@@ -28,9 +65,42 @@
 * [Hive创建表时添加中文注释后乱码问题](http://blog.csdn.net/fenghuibian/article/details/53257579)
 * [HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
 
+## Java
+
+* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
+
+## JSON Web Token (JWT)
+
+* [JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-32)
+* [JSON Web Tokens(JWT)教程](http://www.jdon.com/artichect/json-web-tokens.html)
+* [使用JSON Web Tokens和Spring实现微服务](http://www.jdon.com/dl/best/json-web-tokens-spring-cloud-microservices.html)
+
+* [2010-09-17 windows下如何github ssh 公钥](http://www.cnblogs.com/igrl/archive/2010/09/17/1829358.html)
+* [2012-01-15 SVN迁移到Git的过程（+ 一些技巧）](http://www.cnblogs.com/h2zZhou/p/6136913.html)
+* [2010-03-17 持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) [2006-05-01 Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
+* [2015-09-06 JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
+* [2015-09-07 八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
+
+## Kubernetes
+
+* [2014-10-30 Kubernetes系统架构简介](http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&tm_term=global)
+* [2014-10-30 Kubernetes初探](http://blog.csdn.net/zhangjun2915/article/details/40598151)
+* [2014-12-22 基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
+* [Kubernetes](http://kubernetes.io/) [GitHub](https://github.com/kubernetes/kubernetes)
+* [定位“kubernetes pod卡在ContainerCreating状态”问题的方法](http://blog.csdn.net/xts_huangxin/article/details/51130223)
+* [kubernetes Pod 调度到指定的 Node](http://blog.csdn.net/asdf57847225/article/details/78303190)
+* [Kubernetes用户指南（一）--快速开始、使用k8s配置文件](http://blog.csdn.net/qq1010885678/article/details/48832067)
+* [kubernetes 创建nginx 容器](https://www.cnblogs.com/hutuchong/p/7787888.html)
+* [kubernetes中port、target port、node port的对比分析，以及kube-proxy代理](http://blog.csdn.net/xinghun_4/article/details/50492041)
+* [2016-04-05 Kubernetes集群高可用方案](http://mt.sohu.com/20160405/n443344559.shtml)
+
 ## kvm 虚拟化
 
+* [KVM](https://help.ubuntu.com/community/KVM)
+* [2013-01-18 KVM下桥接的设置（Ubuntu）](http://www.linuxidc.com/Linux/2013-01/78115.htm)
+* [2013-03-31 kvm之ubuntu](http://www.cnblogs.com/isohybrid/archive/2013/03/31/kvm.html)
 * [2013-09-04 kvm虚拟化学习笔记(一)之kvm虚拟化环境安装](http://koumm.blog.51cto.com/703525/1288795)
+* [2013-09-05 kvm使用以及网络设置 解决桥接网络主机不能上网](http://blog.csdn.net/yao219/article/details/11124687)
 * [2013-09-05 kvm虚拟化学习笔记(二)之Linux kvm虚拟机安装](http://koumm.blog.51cto.com/703525/1289627)
 * [2013-09-06 kvm虚拟化学习笔记(三)之windows kvm虚拟机安装](http://koumm.blog.51cto.com/703525/1290191)
 * [2013-09-06 kvm虚拟化学习笔记(四)之kvm虚拟机日常管理与配置](http://koumm.blog.51cto.com/703525/1290269)
@@ -50,6 +120,7 @@
 * [2013-10-04 kvm虚拟化学习笔记(十八)之ESXi到KVM之v2v迁移](http://koumm.blog.51cto.com/703525/1304461)
 * [2013-10-07 kvm虚拟化学习笔记(十九)之convirt集中管理平台搭建](http://koumm.blog.51cto.com/703525/1305553)
 * [2013-10-09 kvm虚拟化学习笔记(二十)之convirt安装linux系统](http://koumm.blog.51cto.com/703525/1306526)
+* [2015-09-16 Ubuntu14.04+KVM配置虚拟机桥接（bridge）](http://blog.csdn.net/FIELDOFFIER/article/details/48497833)
 
 ## Kylin 麒麟
 
@@ -68,6 +139,40 @@
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
 
+## Microservices
+
+* [2014-06-18 Docker微容器+微服务将颠覆传统的软件架构](http://www.jdon.com/46474)
+* [2014-07-12 微服务(Microservices)](http://blog.csdn.net/wurenhai/article/details/37659335/)
+* [2014-08-17 微服务实战中的那些“坑”](http://www.jdon.com/46621)
+* [2015-01-26 使用容器技术来建立一个微服务架构](http://www.csdn.net/article/2015-01-26/2823711)
+* [2015-02-09 为什么RESTful微服务和异步编程是一种趋势](http://zhidao.baidu.com/link?url=X5wRu3q2A9iq15a_91yUpm1B5glRqNXu3mePM6wBdjylIyssQ9YSUvHX3D2XO2bszcOG1hvWLBTmx2ZXGMxJ-Wau3Fl_olwg4olkLeZHMSy)
+* [2015-05-14 How To Control User Identity Within Microservices](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
+* [2015-08-20 微服务实战，第 1 部分: 微服务介绍](http://www.ibm.com/developerworks/cn/cloud/library/cl-microservices-in-action-part-1/)
+* [2015-12-21 微服务实战，第 2 部分: 容器和微服务 — 完美的一对](http://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-microservices-in-action-part-2-trs/)
+* [微服务实战 Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+* [2015-05-19 微服务实战（一）：微服务架构的优势与不足](http://dockone.io/article/394) [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2015-06-15 微服务实战（二）：使用API Gateway](http://dockone.io/article/482) [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2015-07-24 微服务实战（三）：深入微服务架构的进程间通信](http://dockone.io/article/549) [Building Microservices: Inter-Process Communication in a Microservices Architecture](https://www.nginx.com/blog/building-microservices-inter-process-communication/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2015-09-13 服务发现：Zookeeper vs etcd vs Consul](http://dockone.io/article/667)
+* [2015-10-12 微服务实战（四）：服务发现的可行方案以及实践案例](http://dockone.io/article/771) [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+* [2015-12-04 微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936) [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2016-02-10 微服务实战（六）：选择微服务部署策略](http://dockone.io/article/1066) [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/?[utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2016-03-08 微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266) [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+
+## MS Project
+
+* [2012-04-27 怎么修改project2003中项目日历的默认工作时间，例如工作开始时间8点变为9点](http://zhidao.baidu.com/link?url=4h0f8nqrCGIZukjWYDx9FUM7UQa0ObPdtZVwNt1JW7PWM19-kHBA-4HGYRdxGRHBi7JGLtD0PtmdDDMhwkIqI_)
+
+## OAuth
+
+* [2014-05-12 理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+## OpenSSL
+
+* [2013-10-27 OpenSSL 命令](http://blog.csdn.net/as3luyuan123/article/list/4)
+* [2015-07-03 openssl签署自己的泛域名（通配符）证书](http://colinzhouyj.blog.51cto.com/2265679/1670634/)
+* [2015-08-13 Ubuntu安装OpenSSL](http://wangzhijian.blog.51cto.com/6427016/1684454)
+
 ## Oracle
 
 * [Oracle12c-1版安装](http://blog.csdn.net/wucuiling666/article/details/72876688)
@@ -75,6 +180,10 @@
 * [Oracle常用查看表结构命令](https://www.cnblogs.com/tv151579/archive/2013/05/27/3102754.html)
 * [Tnsnames.ora](http://orafaq.com/wiki/Tnsnames.ora)
 * [Listener.ora](http://orafaq.com/wiki/Listener.ora)
+
+## OSGI
+
+* [OSGi.NET 最简单强大的插件框架 - iOpenWorks.com](http://www.iOpenWorks.com) [文档](http://www.iopenworks.com/Documents/DocumentsList) [视频](http://www.iopenworks.com/Documents/DocumentsList/UserGuide_OSGi_Design_Overview) [介绍](http://www.cnblogs.com/baihmpgy/archive/2010/05/05/1727626.html)
 
 ## Rundeck
 
@@ -84,9 +193,10 @@
 
 * [sh脚本异常：/bin/sh^M:bad interpreter: No such file or directory](https://www.cnblogs.com/houpeiyong/p/5942834.html)
 * [centos7 Linux 尝试使用crontab](https://www.cnblogs.com/lzhp/p/6087525.html)
+* [2009-03-24 Check if a program exists from a Bash script](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script/677212#677212)
+* [2011-12-18 如何查看系统的SHELL类型](http://blog.csdn.net/weilaiqing/article/details/7082782)
 * [2012-05-11 expect用法](http://www.cnblogs.com/iloveyoucc/archive/2012/05/11/2496433.html)
 * [2015-02-24 linux expect详解(ssh自动登录)](https://www.cnblogs.com/lzrabbit/p/4298794.html)
-* [2009-03-24 Check if a program exists from a Bash script](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script/677212#677212)
 
 ## Sqoop
 
@@ -151,15 +261,27 @@
 
 * [Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
 
+## UML
+
+* [Unified Modeling Language™ (UML®)](http://www.omg.org/spec/UML/index.htm)
+* [2006-07-20 运用RUP 4+1视图方法进行软件架构设计](http://www.ibm.com/developerworks/cn/rational/06/r-wenyu/index.html)
+* [2008-11-09 UML中的用例图是静态图还是动态图？UML规范给出答案](http://blog.csdn.net/liguisen/article/details/3260114)
+* [2013-08-01 软件设计之UML—UML中的六大关系](http://www.cnblogs.com/hoojo/p/uml_design.html)
+* [2013-08-30 软件设计之UML—UML的构成[上]](http://www.cnblogs.com/hoojo/p/UML_design_constitute_example.html)
+
 ## Visual Studio Code
 
 * [VS Code中转换大小写功能](http://blog.csdn.net/u011127019/article/details/78079504)
 
+## WeChat
+
+* [Wechaty](https://github.com/wechaty/wechaty)
+* [微信聊天机器人 - 个人账号版](https://github.com/lyyyuna/wechat_robot)
+* [网页微信客户端封包大全](https://github.com/xiangzhai/qwx/blob/master/doc/protocol.md)
+* [2014-07-09 微信聊天记录怎么提取](http://zhidao.baidu.com/link?url=D8UifUcXIzd_OF4CQkruUESv_GRvkYT58rWlrqkI2z6_CTkbXn28ab90b0lz-yNxU_rF-R8dCV_kkYYfvaLK4e97UD-ZcbMJH5veJWrMHn_)
+
 ## 其他
 
-* [Unified Modeling Language™ (UML®)](http://www.omg.org/spec/UML/index.htm)
-* [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/) [GitHub](https://github.com/docker/docker)
-* [Kubernetes](http://kubernetes.io/) [GitHub](https://github.com/kubernetes/kubernetes)
 * [Hystrix](https://github.com/Netflix/Hystrix/wiki)
 * [Hadoop](http://hadoop.apache.org/) [GitHub](https://github.com/apache/hadoop)
 * [HBase](http://hbase.apache.org/) [GitHub](https://github.com/apache/hbase)
@@ -175,132 +297,65 @@
 * [Microservice architecture](http://microservices.io/)
 * [DockOne.io](http://dockone.io/)
 * [GitLab](https://about.gitlab.com/) [Gitlab Community Edition 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/) [download](https://about.gitlab.com/downloads/#ubuntu1604)
-* [Wechaty](https://github.com/wechaty/wechaty)
-* [微信聊天机器人 - 个人账号版](https://github.com/lyyyuna/wechat_robot)
-* [网页微信客户端封包大全](https://github.com/xiangzhai/qwx/blob/master/doc/protocol.md)
+
 * [技术雷达 Technology Radar（需要翻墙）](https://www.thoughtworks.com/radar/techniques)
 * [Microsoft .NET SDK For Hadoop](http://hadoopsdk.codeplex.com/)
 * [Microsoft® Hive ODBC Driver](http://www.microsoft.com/en-us/download/details.aspx?id=40886)
 * [Microsoft® Spark ODBC Driver](https://www.microsoft.com/en-us/download/details.aspx?id=49883)
 * [Hadoop for .NET Developers](https://blogs.msdn.microsoft.com/data_otaku/2013/08/14/hadoop-for-net-developers/)
-* [OSGi.NET 最简单强大的插件框架 - iOpenWorks.com](http://www.iOpenWorks.com) [文档](http://www.iopenworks.com/Documents/DocumentsList) [视频](http://www.iopenworks.com/Documents/DocumentsList/UserGuide_OSGi_Design_Overview) [介绍](http://www.cnblogs.com/baihmpgy/archive/2010/05/05/1727626.html)
-* [KVM](https://help.ubuntu.com/community/KVM)
-* [Consul](https://www.consul.io/intro/getting-started/install.html)
-* [Consul.NET](https://github.com/PlayFab/consuldotnet)
+
 * [问卷星](https://www.sojump.com/intro.aspx)
 * [调查派](http://www.diaochapai.com/price)
-* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
-* [2015-08-20 微服务实战，第 1 部分: 微服务介绍](http://www.ibm.com/developerworks/cn/cloud/library/cl-microservices-in-action-part-1/)
-* [2015-12-21 微服务实战，第 2 部分: 容器和微服务 — 完美的一对](http://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-microservices-in-action-part-2-trs/)
 
-* [微服务实战 Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
-* [2015-05-19 微服务实战（一）：微服务架构的优势与不足](http://dockone.io/article/394) [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-* [2015-06-15 微服务实战（二）：使用API Gateway](http://dockone.io/article/482) [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-* [2015-07-24 微服务实战（三）：深入微服务架构的进程间通信](http://dockone.io/article/549) [Building Microservices: Inter-Process Communication in a Microservices Architecture](https://www.nginx.com/blog/building-microservices-inter-process-communication/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-* [2015-10-12 微服务实战（四）：服务发现的可行方案以及实践案例](http://dockone.io/article/771) [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
-* [2015-12-04 微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936) [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-* [2016-02-10 微服务实战（六）：选择微服务部署策略](http://dockone.io/article/1066) [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/?[utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-* [2016-03-08 微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266) [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
-
-* [JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-32)
-* [JSON Web Tokens(JWT)教程](http://www.jdon.com/artichect/json-web-tokens.html)
-* [使用JSON Web Tokens和Spring实现微服务](http://www.jdon.com/dl/best/json-web-tokens-spring-cloud-microservices.html)
-
-* [2006-07-20 运用RUP 4+1视图方法进行软件架构设计](http://www.ibm.com/developerworks/cn/rational/06/r-wenyu/index.html)
-* [2008-11-09 UML中的用例图是静态图还是动态图？UML规范给出答案](http://blog.csdn.net/liguisen/article/details/3260114)
-* [2010-03-17 持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) [2006-05-01 Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
-* [2010-09-17 windows下如何github ssh 公钥](http://www.cnblogs.com/igrl/archive/2010/09/17/1829358.html)
-* [2011-12-18 如何查看系统的SHELL类型](http://blog.csdn.net/weilaiqing/article/details/7082782)
-* [2012-01-15 SVN迁移到Git的过程（+ 一些技巧）](http://www.cnblogs.com/h2zZhou/p/6136913.html)
-* [2012-04-27 怎么修改project2003中项目日历的默认工作时间，例如工作开始时间8点变为9点](http://zhidao.baidu.com/link?url=4h0f8nqrCGIZukjWYDx9FUM7UQa0ObPdtZVwNt1JW7PWM19-kHBA-4HGYRdxGRHBi7JGLtD0PtmdDDMhwkIqI_)
 * [2012-10-31 Ubuntu12.04下resolv.conf重启机器后失效的问题解决](http://blog.sina.com.cn/s/blog_484d87770101czlr.html)
 * [2012-11-19 ubuntu 添加管理员账号](http://blog.csdn.net/codebistu/article/details/8200908)
 * [2012-11-26 用Kettle的一套流程完成对整个数据库迁移](http://ainidehsj.iteye.com/blog/1735434)
-* [2013-01-18 KVM下桥接的设置（Ubuntu）](http://www.linuxidc.com/Linux/2013-01/78115.htm)
 * [2013-02-04 Flume日志收集](http://blog.csdn.net/zhouleilei/article/details/8568147/)
-* [2013-03-31 kvm之ubuntu](http://www.cnblogs.com/isohybrid/archive/2013/03/31/kvm.html)
+
+* [2013-07-16 Ubuntu下ssh服务的安装与登陆（ssh远程登陆）](http://blog.csdn.net/zht666/article/details/9340633)
+* [2013-07-22 Kettle 实现mysql数据库不同表之间数据同步](http://www.cnblogs.com/inuyasha1027/p/kettle_mysql_dataSynchronize.html)
+
+
 * [2013-06-07 大话科技No.2：产品经理/码农/设计师的3P战争](https://www.huxiu.com/article/15543/1.html)
 * [2013-06-21 大话科技No.3：一个流氓眼中的物联网](https://www.huxiu.com/article/16197/1.html)
-* [2013-07-16 Ubuntu下ssh服务的安装与登陆（ssh远程登陆）](http://blog.csdn.net/zht666/article/details/9340633)
 * [2013-07-18 大话科技No.4：只有韦小宝最适合当产品经理](https://www.huxiu.com/article/17409/1.html)
-* [2013-07-22 Kettle 实现mysql数据库不同表之间数据同步](http://www.cnblogs.com/inuyasha1027/p/kettle_mysql_dataSynchronize.html)
 * [2013-07-30 大话科技No.5：面部识别，“禽兽，放开那个流氓！”](https://www.huxiu.com/article/17947/1.html)
-* [2013-08-01 软件设计之UML—UML中的六大关系](http://www.cnblogs.com/hoojo/p/uml_design.html)
 * [2013-08-12 大话科技No.6：可穿戴设备，剑指未来的一场春梦](https://www.huxiu.com/article/18627/1.html)
-* [2013-08-30 软件设计之UML—UML的构成[上]](http://www.cnblogs.com/hoojo/p/UML_design_constitute_example.html)
 * [2013-09-04 大话科技No.7：骨传导技术，让女神上车不再睡觉](https://www.huxiu.com/article/19851/1.html)
-* [2013-09-05 kvm使用以及网络设置 解决桥接网络主机不能上网](http://blog.csdn.net/yao219/article/details/11124687)
 * [2013-09-18 大话科技No.8：大数据！你能在色情行业里做什么！](https://www.huxiu.com/article/20528/1.html)
 * [2013-10-25 大话科技No.9：NFC技术，爱就贴一起，异地恋去死](https://www.huxiu.com/article/21996/1.html)
-* [2013-10-27 OpenSSL 命令](http://blog.csdn.net/as3luyuan123/article/list/4)
+
 * [2013-11-21 Zero Downtime, Instant Deployment and Rollback](http://www.ebaytechblog.com/2013/11/21/zero-downtime-instant-deployment-and-rollback/)
 * [2014-01-01 中国互联网网站统计史](https://my.oschina.net/leejun2005/blog/269292)
 * [2014-03-04 Kettle 与 Talend Open Studio 的 ETL 比较以及其它ETL工具](http://blog.csdn.net/zkq1989/article/details/20456449)
 * [2014-03-10 Microservices a definition of this new architectural term](http://martinfowler.com/articles/microservices.html)
 * [2014-03-20 使用 Node.js、Express、AngularJS 和 MongoDB 构建一个实时问卷调查应用程序](http://www.tuicool.com/articles/R7vaMr)
-* [2014-03-27 svn 迁移到git下全过程](http://www.aikaiyuan.com/6584.html)
-* [2014-05-12 理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
 * [2014-05-14 大型网站架构演变和知识体系](http://kb.cnblogs.com/page/207824/)
-* [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
-* [2014-06-18 Docker微容器+微服务将颠覆传统的软件架构](http://www.jdon.com/46474)
-* [2014-07-09 微信聊天记录怎么提取](http://zhidao.baidu.com/link?url=D8UifUcXIzd_OF4CQkruUESv_GRvkYT58rWlrqkI2z6_CTkbXn28ab90b0lz-yNxU_rF-R8dCV_kkYYfvaLK4e97UD-ZcbMJH5veJWrMHn_)
-* [2014-07-12 微服务(Microservices)](http://blog.csdn.net/wurenhai/article/details/37659335/)
-* [2014-08-02 使用Docker建立一个动态负载平衡的分布式Web系统](http://www.jdon.com/46580)
-* [2014-08-02 Docker学习笔记（1）-- 如何安装Docker](http://blog.csdn.net/we_shell/article/details/38352837)
-* [2014-08-04 Docker学习笔记(2)--Docker常用命令](http://blog.csdn.net/we_shell/article/details/38368137)
-* [2014-08-08 Docker学习笔记（3）-- 如何使用Dockerfile构建镜像](http://blog.csdn.net/we_shell/article/details/38445979)
-* [2014-08-17 微服务实战中的那些“坑”](http://www.jdon.com/46621)
-* [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
-* [2014-10-15 阿里云Ubuntu环境搭建Docker服务](http://blog.csdn.net/minimicall/article/details/40108305) [2](http://blog.csdn.net/minimicall/article/details/40119177) [3](https://bbs.aliyun.com/read/152090.html?ordertype=desc&displayMode=1)
-* [2014-10-30 Kubernetes系统架构简介](http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&tm_term=global)
-* [2014-10-30 Kubernetes初探](http://blog.csdn.net/zhangjun2915/article/details/40598151)
-* [2014-12-22 基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
-* [2014-12-24 Ubuntu14.04下如何配置固定IP](http://jingyan.baidu.com/article/e5c39bf5bbe0e739d7603396.html)
-* [2014-05-15 Docker Dockerfile详解](http://blog.csdn.net/wsscy2004/article/details/25878223)
-* [2014-05-15 常用docker命令，及一些坑](http://blog.csdn.net/wsscy2004/article/details/25878363)
-* [2014-05-16 Docker Container同时启动多服务](http://blog.csdn.net/wsscy2004/article/details/25980675)
-* [2014-07-23 git服务器gitlab之搭建和使用](http://blog.csdn.net/zy416548283/article/details/38057925)
-* [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
 * [2015-01-24 干货：华为花3000万引进的BLM模型](http://www.360doc.com/content/15/0127/20/11190693_444278892.shtml)
-* [2015-01-26 使用容器技术来建立一个微服务架构](http://www.csdn.net/article/2015-01-26/2823711)
-* [2015-02-03 Docker 特权参数 privileged](http://blog.csdn.net/halcyonbaby/article/details/43499409)
-* [2015-02-09 为什么RESTful微服务和异步编程是一种趋势](http://zhidao.baidu.com/link?url=X5wRu3q2A9iq15a_91yUpm1B5glRqNXu3mePM6wBdjylIyssQ9YSUvHX3D2XO2bszcOG1hvWLBTmx2ZXGMxJ-Wau3Fl_olwg4olkLeZHMSy)
-* [2015-03-06 Docker的四种网络方式](http://www.open-open.com/lib/view/open1425625410243.html)
+
 * [2015-04-19 Google发布论文 披露大规模集群管理工具Borg的细节](http://www.infoq.com/cn/news/2015/04/google-borg/)
-* [2015-04-24 生产环境下如何部署Docker Registry](http://dockone.io/article/338?utm_source=tuicool&utm_medium=referral)
+
 * [2015-05-02 Windows10下搭建汇编语言开发环境（利用DOSBOX和MASM32）](http://blog.csdn.net/doniexun/article/details/45438457)
-* [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
+
 * [2015-05-12 使用Angular JS + Express JS入门搭建网站](http://www.chinaz.com/web/2015/0512/405473.shtml)
 * [2015-05-12 谷歌的容器之路：从Borg到Kubernetes](http://www.infoq.com/cn/news/2015/05/Kubernetes-Borg-Eurosys/)
-* [2015-05-14 How To Control User Identity Within Microservices](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
+
 * [2015-05-26 google集群操作系统borg](http://www.open-open.com/lib/view/open1432535373066.html)
 * [2015-07-03 全方位对比Mesos、Omega和Borg](http://www.infoq.com/cn/articles/comparison-of-mesos-omega-and-borg/)
-* [2015-07-03 openssl签署自己的泛域名（通配符）证书](http://colinzhouyj.blog.51cto.com/2265679/1670634/)
+
 * [2015-07-08 让日志变得神奇 — 云中使用 Docker 的 Elasticsearch：看看如何使用 IBM Containers 在 Bluemix 上轻松地管理您自己的 ELK 堆栈](http://jamesthom.as/blog/2015/07/08/making-logs-awesome-with-elasticsearch-and-docker/)
-* [2015-08-02 分布式服务注册和发现consul 简要介绍](http://www.cnblogs.com/shanyou/p/4695131.html)
-* [2015-08-06 Docker建立容器后在宿主机上的规则](http://bingotree.cn/?p=826&utm_source=tuicool&utm_medium=referral)
 * [2015-08-09 使用C# 和Consul进行分布式系统协调](http://www.cnblogs.com/shanyou/p/4714838.html)
 * [2015-08-13 Push！请给用户一个打开APP的理由](http://36kr.com/p/5036352.html)
-* [2015-08-13 Ubuntu安装OpenSSL](http://wangzhijian.blog.51cto.com/6427016/1684454)
-* [2015-09-06 JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
-* [2015-09-07 八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
-* [2015-09-15 服务发现：Zookeeper vs etcd vs Consul](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=208173179&idx=1&sn=392c17b136c2bf570429785702d98353&scene=0&key=dffc561732c226516d4dccb1f165c5b24e823a11384b262d55dc20e3bd0d4cd21c219e8fc2bb2817fd3ccd46f36db04a&ascene=14&uin=ODY5ODkzMzQw&devicetype=iPhone+OS8.4.1&version=16020610&nettype=WIFI&fontScale=100&pass_ticket=yxu6Cmc0yX5TWpekVDtFbQhGNYo%2BPbTVmjkpYiq2xiXv6Mbhq3rZUqZkbefMNm11)
-* [2015-09-16 Ubuntu14.04+KVM配置虚拟机桥接（bridge）](http://blog.csdn.net/FIELDOFFIER/article/details/48497833)
-* [2015-10-28 Docker Registry V2(distribution) & Proxy(nginx) 的搭建经历](http://unixman.blog.51cto.com/10163040/1707423)
-* [2015-10-29 Docker私有仓库Registry的搭建验证](http://www.cnblogs.com/lienhua34/p/4922130.html)
+
 * [2015-11-15 Elasticsearch 数据搜索篇](http://www.cnblogs.com/xing901022/p/4967796.html)
-* [2015-11-19 有关Docker的八个令人难以置信的事实](http://developer.51cto.com/art/201511/497865.htm)
 * [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
 * [2015-12-21 Package has no installation candidate解决方法](http://blog.csdn.net/lan120576664/article/details/50373571)
 * [2016-01-01 浅谈用户行为分析之用户身份识别：cookie 知多少？](https://my.oschina.net/leejun2005/blog/521851)
-* [2016-01-08 .NET开发者启程Docker之路](http://my.oschina.net/kernalsky/blog/599345)
-* [2016-01-14 如何使用Docker开源仓库建立代理缓存仓库](https://zhidao.baidu.com/question/1769171559541258780.html)
 * [2016-01-15 Web 微信与基于Node的微信机器人实现](http://reverland.org/javascript/2016/01/15/webchat-user-bot/)
 * [2016-02-17 漫谈ELK在大数据运维中的应用](http://blog.csdn.net/lively1982/article/details/50678657)
 * [2016-02-21 U盘EFI模式启动电脑安装win10时出现这个无法继续安装 如何处理](https://zhidao.baidu.com/question/2010497871355199668.html)
-* [2016-03-01 使用 Docker 容器应该避免的 10 个事情](https://www.oschina.net/translate/10-things-to-avoid-in-docker-containers)
-* [2016-03-22 【Docker实战】Registry & Portus搭建详解](http://dockone.io/article/1151)
-* [2016-04-05 Kubernetes集群高可用方案](http://mt.sohu.com/20160405/n443344559.shtml)
+
 * [2016-04-23 Apache Hadoop与第三方Hadoop-CDH,HDP,MapR的分析与比较](http://www.lishiyu.cn/post/58.html)
 * [2016-05-29 阿里云ECS+CentOS 7.0+Docker+Redmine环境搭建](http://www.cnblogs.com/iluzhiyong/p/redmine.html)
 * [2016-06-03 Ubuntu部署python3.5的开发和运行环境](http://www.cnblogs.com/beer/p/5557497.html)
@@ -363,12 +418,8 @@
 * [log4net ConversionPattern](http://liujingliang.blog.sohu.com/65482244.html)
 * [如何：调试 Windows 服务应用程序](http://msdn.microsoft.com/zh-cn/library/7a50syb3%28VS.80%29.aspx)
 * [疑难解答：调试 Windows 服务](http://msdn.microsoft.com/zh-cn/library/kbe0xeh6%28v=vs.80%29.aspx)
-* [使用EA逆向生成数据库E-R图](http://www.cnblogs.com/davidgu/archive/2013/08/17/3264017.html)
-* [在EA中画ER图和数据模型图](http://blog.csdn.net/lostspeed/article/details/8241681)
-* [E-R图 - springside例子](http://www.cnblogs.com/springside-example/archive/2011/10/13/2530201.html)
-* [Enterprise Architect多人协作方法（通过MySQL服务器共享）](http://blog.csdn.net/jaketseng/article/details/8145845)
-* [enterprise architect 连接mysql odbc](http://blog.csdn.net/bornjasoncen/article/details/8852070)
-* [EA(Enterprise Architect)建立数据模型间外键约束](http://www.cnblogs.com/yinluhui0229/archive/2011/05/30/2062980.html)
+
+
 * [Download MySQL Connector/ODBC](http://dev.mysql.com/downloads/connector/odbc/)
 * [.net强制退出主窗口的方法——Application.Exit()方法和Environment.Exit(0)方法](http://www.cnblogs.com/enterbeijingthreetimes/archive/2008/08/27/1277747.html)
 * [改善C#程序的建议7：正确停止线程](http://www.cnblogs.com/luminji/archive/2011/05/08/2040170.html)
