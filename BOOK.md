@@ -54,6 +54,7 @@
 * [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
 * [2014-07-23 git服务器gitlab之搭建和使用](http://blog.csdn.net/zy416548283/article/details/38057925)
 * [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
+* [2016-11-02 (原)使用TortoiseGit提交代码push的时候报错:HTTP 413 curl 22 The requested URL returned error: 413 Request Entity Too Large](http://www.cnblogs.com/lihaiping/p/6021813.html)
 
 ## Hive 数据类型
 
