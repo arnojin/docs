@@ -259,6 +259,7 @@
 
 ## Tableau
 
+* [错误“无法使用给定 CA 证书验证对等证书”](http://kb.tableau.com/articles/Issue/error-peer-certificate-cannot-be-authenticated-with-given-ca-certificates?lang=zh)
 * [Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
 
 ## UML
