@@ -236,6 +236,7 @@
 * [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure](https://zhidao.baidu.com/question/623417115070490444.html)
 * [java - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link](https://stackoverflow.com/questions/12593634/com-mysql-jdbc-exceptions-jdbc4-communicationsexception-communications-link)
 * [spark on yarn cluster部署中遇到的坑](http://evenx86.github.io/2016/10/11/spark-submit-on-yarn/)
+* [2016-09-28 scala实战之spark源码修改（能够将DataFrame按字段增量写入mysql数据表）](https://www.2cto.com/net/201609/551130.html)
 
 ## Spring Boot
 
