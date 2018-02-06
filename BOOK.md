@@ -261,8 +261,11 @@
 
 ## Tableau
 
-* [错误“无法使用给定 CA 证书验证对等证书”](http://kb.tableau.com/articles/Issue/error-peer-certificate-cannot-be-authenticated-with-given-ca-certificates?lang=zh)
-* [Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
+* [2017-04-13 Tableau——Server单点登录](http://www.cnblogs.com/yiji-xing/p/6704556.html)
+* [2017-12-18 错误“无法使用给定 CA 证书验证对等证书”](http://kb.tableau.com/articles/Issue/error-peer-certificate-cannot-be-authenticated-with-given-ca-certificates?lang=zh)
+* [2018-01-17 Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
+* [2018-01-17 受信任的身份验证的工作原理](http://onlinehelp.tableau.com/current/server/zh-cn/trusted_auth_how.htm)
+* [2018-01-17 测试受信任的身份验证](http://onlinehelp.tableau.com/current/server/zh-cn/trusted_auth_testing.htm)
 
 ## UML
 
