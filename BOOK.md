@@ -285,6 +285,7 @@
 
 ## 其他
 
+* [The Ultimate Guide to Cryptocurrency and Blockchain](http://www.oddup.com/article/the-ultimate-guide-to-cryptocurrency-and-blockchain)
 * [Hystrix](https://github.com/Netflix/Hystrix/wiki)
 * [Hadoop](http://hadoop.apache.org/) [GitHub](https://github.com/apache/hadoop)
 * [HBase](http://hbase.apache.org/) [GitHub](https://github.com/apache/hbase)
