@@ -69,6 +69,8 @@
 ## Java
 
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
+* [2015-03-18 Java8新日期时间API的20个使用示例](http://www.jb51.net/article/62410.htm)
+* [2017-06-08 Java8新特性之深入解析日期和时间](http://www.jb51.net/article/115720.htm)
 
 ## JSON Web Token (JWT)
 
@@ -137,6 +139,7 @@
 * [Maven Repository: org.apache.hive » hive-jdbc » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-jdbc/1.1.0-cdh5.12.0)
 * [Maven Repository: org.apache.hive » hive-exec » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-exec/1.1.0-cdh5.12.0)
 * [maven中加载Oracle驱动报错问题](http://blog.csdn.net/maobois/article/details/51884179)
+* [2017-03-16 Maven中添加Oracle jdbc jar包](http://blog.csdn.net/princeluan/article/details/62298902)
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
 
