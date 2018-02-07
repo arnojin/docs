@@ -142,6 +142,7 @@
 * [2017-03-16 Maven中添加Oracle jdbc jar包](http://blog.csdn.net/princeluan/article/details/62298902)
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
 * mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
+* [2016-10-12 intellij 出现“Usage of API documented as @since 1.6+”的解决办法](https://www.cnblogs.com/cxj20160928/p/5954196.html)
 
 ## Microservices
 
