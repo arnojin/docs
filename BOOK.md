@@ -241,13 +241,20 @@
 * [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure](https://zhidao.baidu.com/question/623417115070490444.html)
 * [java - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link](https://stackoverflow.com/questions/12593634/com-mysql-jdbc-exceptions-jdbc4-communicationsexception-communications-link)
 * [spark on yarn cluster部署中遇到的坑](http://evenx86.github.io/2016/10/11/spark-submit-on-yarn/)
+* [2014-08-19 Spark 性能相关参数配置详解－Storage篇](http://blog.csdn.net/colorant/article/details/38681379)
+* [2015-01-10 【Spark十九】Spark on YARN部署](http://bit1129.iteye.com/blog/2174677)
+* [2015-01-14 【Spark二十二】在Intellij Idea中调试运行Spark应用程序](http://bit1129.iteye.com/blog/2175968)
+* [2015-06-15 spark.task.maxFailures not working as expected](https://stackoverflow.com/questions/30593923/spark-task-maxfailures-not-working-as-expected)
+* [2015-09-10 Spark Executor在YARN上的内存分配](http://blog.csdn.net/hammertank/article/details/48346285)
 * [2015-10-10 SparkSQL相关语句总结](https://www.cnblogs.com/yangsy0915/p/4867203.html)
 * [2016-09-28 scala实战之spark源码修改（能够将DataFrame按字段增量写入mysql数据表）](https://www.2cto.com/net/201609/551130.html)
+* [2016-11-11 SparkStreaming性能调优大全！](http://blog.51cto.com/36006798/1871929)
 * [2016-12-01 spark submit参数调优](http://blog.csdn.net/chenjieit619/article/details/53421080)
 * [2016-12-08 spark-submit提交任务的方式](http://blog.csdn.net/u010181136/article/details/53514962)
 * yarn logs -applicationId application_1517977256046_0031 > execption
 * [2017-02-27 WARN YarnClusterScheduler: not accepted any resources](http://blog.sina.com.cn/s/blog_4b1452dd0102wyzo.html)
 * [2017-12-29 基于CDH 5.9.1 搭建 Hive on Spark 及相关配置和调优](https://www.cnblogs.com/kongcong/p/8144782.html)
+* [Spark Streaming重复消费,多次输出问题剖析与解决方案](https://my.oschina.net/jfld/blog/671189)
 
 ## Spring Boot
 
