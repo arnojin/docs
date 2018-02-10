@@ -86,16 +86,18 @@
 
 ## Kubernetes
 
-* [2014-10-30 Kubernetes系统架构简介](http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&tm_term=global)
-* [2014-10-30 Kubernetes初探](http://blog.csdn.net/zhangjun2915/article/details/40598151)
-* [2014-12-22 基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
 * [Kubernetes](http://kubernetes.io/) [GitHub](https://github.com/kubernetes/kubernetes)
 * [定位“kubernetes pod卡在ContainerCreating状态”问题的方法](http://blog.csdn.net/xts_huangxin/article/details/51130223)
 * [kubernetes Pod 调度到指定的 Node](http://blog.csdn.net/asdf57847225/article/details/78303190)
 * [Kubernetes用户指南（一）--快速开始、使用k8s配置文件](http://blog.csdn.net/qq1010885678/article/details/48832067)
 * [kubernetes 创建nginx 容器](https://www.cnblogs.com/hutuchong/p/7787888.html)
 * [kubernetes中port、target port、node port的对比分析，以及kube-proxy代理](http://blog.csdn.net/xinghun_4/article/details/50492041)
+* [2014-10-30 Kubernetes系统架构简介](http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&tm_term=global)
+* [2014-10-30 Kubernetes初探](http://blog.csdn.net/zhangjun2915/article/details/40598151)
+* [2014-12-22 基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
 * [2016-04-05 Kubernetes集群高可用方案](http://mt.sohu.com/20160405/n443344559.shtml)
+* [2017-03-19 Kubernetes的ConfigMap说明](https://www.cnblogs.com/breezey/p/6582082.html)
+* [2017-11-20 常用kubectl命令总结](https://www.cnblogs.com/Cherry-Linux/p/7866427.html)
 
 ## kvm 虚拟化
 
