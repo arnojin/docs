@@ -133,6 +133,11 @@
 * [kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
 * [Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
 
+## Machine Learning
+
+* [huxiaoman7/Machine-Learning-Algorithms: 自己总结的机器学习的算法与相应的程序](https://github.com/huxiaoman7/Machine-Learning-Algorithms)
+* [Charlotte77](http://www.cnblogs.com/charlotte77/)
+
 ## Maven
 
 * [maven国内镜像](https://www.cnblogs.com/faunjoe88/p/7691125.html)
