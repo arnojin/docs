@@ -9,6 +9,27 @@
 * [enterprise architect 连接mysql odbc](http://blog.csdn.net/bornjasoncen/article/details/8852070)
 * [EA(Enterprise Architect)建立数据模型间外键约束](http://www.cnblogs.com/yinluhui0229/archive/2011/05/30/2062980.html)
 
+## Beam
+
+* [2017-02-10 为什么Google用Apache Beam彻底替换掉MapReduce](http://www.infoq.com/cn/articles/why-google-replace-beam-with-apache-mapreduce/)
+* [2017-03-19 四个动画秒懂 Apache Beam 模型](https://www.jianshu.com/p/357bf071d017)
+* [2017-04-09 Apache Beam 剖析](https://www.cnblogs.com/smartloli/p/6685106.html)
+* [Apache Beam研究报告](https://m.aliyun.com/yunqi/articles/71057)
+* [跟ApacheBeam学质量控制之道](https://m.aliyun.com/yunqi/articles/113940?spm=5176.11156381.0.0.49a92a3eTDVk8n)
+
+## Big Data
+
+* [2015-08-31 国务院关于印发促进大数据发展行动纲要的通知](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
+* [2015-09-06 图解：促进大数据发展行动纲要](http://www.gov.cn/xinwen/2015-09/06/content_2925754.htm)
+* [2015-09-17 《关于促进大数据发展行动纲要》解读](http://www.xinhuanet.com/info/2015-09/17/c_134632375.htm)
+* [2016-06-03 国家发改委办公厅关于组织实施促进大数据发展重大工程的通知](http://bigdata.sic.gov.cn/news/510/6456.htm)
+* [2016-07-27 中共中央办公厅 国务院办公厅印发《国家信息化发展战略纲要》](http://www.gov.cn/xinwen/2016-07/27/content_5095336.htm)
+* [2017-01-17 《大数据产业发展规划（2016－2020年）》解读](http://www.miit.gov.cn/n1146295/n1652858/n1653018/c5465700/content.html)
+* [2017-12-09 习近平：推动实施国家大数据战略 加快建设数字中国](http://www.xinhuanet.com/politics/2017-12/09/c_1122084706.htm)
+* [2017-12-12 习近平：实施国家大数据战略，加快建设数字中国](http://www.thebigdata.cn/YeJieDongTai/35064.html)
+* [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
+* [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
+
 ## CDH
 
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
