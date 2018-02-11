@@ -27,6 +27,7 @@
 * [2017-01-17 《大数据产业发展规划（2016－2020年）》解读](http://www.miit.gov.cn/n1146295/n1652858/n1653018/c5465700/content.html)
 * [2017-12-09 习近平：推动实施国家大数据战略 加快建设数字中国](http://www.xinhuanet.com/politics/2017-12/09/c_1122084706.htm)
 * [2017-12-12 习近平：实施国家大数据战略，加快建设数字中国](http://www.thebigdata.cn/YeJieDongTai/35064.html)
+* [2017-12-29 武汉大学-世纪高通时空大数据联合实验室揭牌](http://sim.whu.edu.cn/xwdt/2017-12-29/5688.html)
 * [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
 * [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
 
