@@ -16,6 +16,7 @@
 * [2013-08-17 使用EA逆向生成数据库E-R图](http://www.cnblogs.com/davidgu/archive/2013/08/17/3264017.html)
 * [2014-05-14 大型网站架构演变和知识体系](http://kb.cnblogs.com/page/207824/)
 * [2015-01-24 干货：华为花3000万引进的BLM模型](http://www.360doc.com/content/15/0127/20/11190693_444278892.shtml)
+* [2016-11-15 40亿移动设备的用户画像和标签架构实践](http://blog.talkingdata.net/?p=4402)
 
 ## Babel
 
@@ -38,6 +39,7 @@
 * [2015-09-17 《关于促进大数据发展行动纲要》解读](http://www.xinhuanet.com/info/2015-09/17/c_134632375.htm)
 * [2016-06-03 国家发改委办公厅关于组织实施促进大数据发展重大工程的通知](http://bigdata.sic.gov.cn/news/510/6456.htm)
 * [2016-07-27 中共中央办公厅 国务院办公厅印发《国家信息化发展战略纲要》](http://www.gov.cn/xinwen/2016-07/27/content_5095336.htm)
+* [2016-11-19 大数据隐私保护技术之脱敏技术探究](http://www.freebuf.com/articles/database/120040.html)
 * [2017-01-17 《大数据产业发展规划（2016－2020年）》解读](http://www.miit.gov.cn/n1146295/n1652858/n1653018/c5465700/content.html)
 * [2017-02-14 总听大佬说起数字化转型，但你真正理解什么是数字化吗？](http://blog.csdn.net/laowxl/article/details/55191987)
 * [2017-09-20 王文京关于企业数字化转型的八大观点](http://www.kejixun.com/article/170920/373461.shtml)
@@ -56,6 +58,7 @@
 ## Blockchain 区块链
 
 * [2018-01-23 The Ultimate Guide to Cryptocurrency and Blockchain](http://www.oddup.com/article/the-ultimate-guide-to-cryptocurrency-and-blockchain)
+* [扫盲 BT Sync](http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html)
 
 ## CDH
 
@@ -73,8 +76,12 @@
 
 ## Docker
 
-* [DockOne.io](http://dockone.io/)
+* [Docker Toolbox](http://mirrors.aliyun.com/docker-toolbox/windows/) [2](https://www.docker.com/products/docker-toolbox)
 * [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/) [GitHub](https://github.com/docker/docker)
+* [DockOne.io](http://dockone.io/)
+* [Getting Started with Docker for Windows](https://docs.docker.com/docker-for-windows/#what-to-know-before-you-install)
+* [使用Docker创建两个容器的应用](http://www.jdon.com/artichect/build-a-2-container-app-with-docker.html)
+* [10个基于DOCKER的顶尖开发工具](http://www.jdon.com/artichect/top-10-open-source-docker-developer-tools.html)
 * [2014-05-15 Docker Dockerfile详解](http://blog.csdn.net/wsscy2004/article/details/25878223)
 * [2014-08-02 使用Docker建立一个动态负载平衡的分布式Web系统](http://www.jdon.com/46580)
 * [2014-08-02 Docker学习笔记（1）-- 如何安装Docker](http://blog.csdn.net/we_shell/article/details/38352837)
@@ -95,6 +102,9 @@
 * [2016-01-14 如何使用Docker开源仓库建立代理缓存仓库](https://zhidao.baidu.com/question/1769171559541258780.html)
 * [2016-03-01 使用 Docker 容器应该避免的 10 个事情](https://www.oschina.net/translate/10-things-to-avoid-in-docker-containers)
 * [2016-03-22 【Docker实战】Registry & Portus搭建详解](http://dockone.io/article/1151)
+* [2016-07-17 docker完整解决方案](http://www.colabug.com/thread-1598722-1-1.html)
+* [2016-10-08 传统企业应用容器化的痛点、坑和解决之道](http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649692052&idx=1&sn=413fe320f15560d60a72f132a0572576&chksm=889328f7bfe4a1e10662c8b2593bdc89e314c92e795d3e493f29ab5e3137ff71b5fd054ac50c&mpshare=1&scene=1&srcid=1008boBGX0z7Gfh9Cn1Zs8hg#rd)
+* [2017-04-28 Docker学习笔记，从原理到实践](http://www.cnblogs.com/linuxops/p/6781047.html?utm_source=itdadao&utm_medium=referral)
 
 ## Elasticsearch Logstash Kibana (ELK)
 
@@ -115,31 +125,37 @@
 ## Git
 
 * [GitLab](https://about.gitlab.com/) [Gitlab Community Edition 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/) [download](https://about.gitlab.com/downloads/#ubuntu1604)
+* [2012-06-28 搭建Git本地服务器](http://www.cnblogs.com/trying/archive/2012/06/28/2863758.html)
 * [2014-03-27 svn 迁移到git下全过程](http://www.aikaiyuan.com/6584.html)
 * [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
 * [2014-07-23 git服务器gitlab之搭建和使用](http://blog.csdn.net/zy416548283/article/details/38057925)
 * [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
 * [2015-10-22 Windows下使用git push命令的无密码设置](http://blog.csdn.net/dream_angel_z/article/details/49335607)
+* [2016-06-20 GitLab的简单使用](http://www.jianshu.com/p/142b3dc8ae15)
+* [2016-08-03 Windows下Git多账号配置，同一电脑多个ssh-key的管理](http://www.cnblogs.com/popfisher/p/5731232.html)
 * [2016-11-02 (原)使用TortoiseGit提交代码push的时候报错:HTTP 413 curl 22 The requested URL returned error: 413 Request Entity Too Large](http://www.cnblogs.com/lihaiping/p/6021813.html)
 * [2017-06-21 git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
 
 ## Hadoop
 
 * [Hadoop](http://hadoop.apache.org/) [GitHub](https://github.com/apache/hadoop)
+* [2016-04-23 Apache Hadoop与第三方Hadoop-CDH,HDP,MapR的分析与比较](http://www.lishiyu.cn/post/58.html)
+* [2016-10-09 Hadoop+Spark+MongoDB+MySQL+C#大数据开发项目最佳实践](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650756947&idx=1&sn=57415e19669722cf77233381b2569bb8&chksm=f3f9e2c6c48e6bd084ba4a0958bbd454647727ffae4c6a559a911952ccbb43d1298e59243119&mpshare=1&scene=1&srcid=1009i68VJVUwuT8rBkemeMBu#rd)
 
 ## HBase
 
 * [HBase](http://hbase.apache.org/) [GitHub](https://github.com/apache/hbase)
 
-## Hive 数据类型
+## Hive
 
 * [LanguageManual Types - Apache Hive - Apache Software Foundation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Types)
-* [Hive数据类型](http://blog.csdn.net/xiaoqi0531/article/details/54667393)
-* [Hive中的数据类型和文件格式](http://blog.csdn.net/universe_ant/article/details/50879382)
-* [Hive数据类型与文件存储格式](https://www.cnblogs.com/tlnshuju/p/7255509.html)
-* [hive中解决中文乱码](https://www.cnblogs.com/DreamDrive/p/7469476.html)
-* [Hive创建表时添加中文注释后乱码问题](http://blog.csdn.net/fenghuibian/article/details/53257579)
-* [HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
+* [2016-01-09 HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
+* [2016-03-13 Hive中的数据类型和文件格式](http://blog.csdn.net/universe_ant/article/details/50879382)
+* [2016-09-28 几个连接HiveServer的客户端界面工具](http://lxw1234.com/archives/2016/09/723.htm)
+* [2016-11-21 Hive创建表时添加中文注释后乱码问题](http://blog.csdn.net/fenghuibian/article/details/53257579)
+* [2017-01-22 Hive数据类型](http://blog.csdn.net/xiaoqi0531/article/details/54667393)
+* [2017-07-29 Hive数据类型与文件存储格式](https://www.cnblogs.com/tlnshuju/p/7255509.html)
+* [2017-09-03 hive中解决中文乱码](https://www.cnblogs.com/DreamDrive/p/7469476.html)
 
 ## Hystrix
 
@@ -158,6 +174,7 @@
 ## Jenkins
 
 * [Jenkins](https://jenkins.io/index.html)
+* [2017-03-18 Jenkins Gitlab持续集成打包平台搭建](http://www.importnew.com/23921.html)
 
 ## JSON Web Token (JWT)
 
@@ -177,6 +194,11 @@
 * [2013-07-22 Kettle 实现mysql数据库不同表之间数据同步](http://www.cnblogs.com/inuyasha1027/p/kettle_mysql_dataSynchronize.html)
 * [2014-03-04 Kettle 与 Talend Open Studio 的 ETL 比较以及其它ETL工具](http://blog.csdn.net/zkq1989/article/details/20456449)
 
+## KMS
+
+* [搭建KMS服务器 Emulated KMS Servers on non-Windows platforms](http://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms)
+* [2015-08-26 Windows 10 KMS 激活方法](http://www.cnblogs.com/xinpureZhu/p/4761363.html)
+
 ## Kubernetes
 
 * [Kubernetes](http://kubernetes.io/) [GitHub](https://github.com/kubernetes/kubernetes)
@@ -192,6 +214,7 @@
 * [2015-05-12 谷歌的容器之路：从Borg到Kubernetes](http://www.infoq.com/cn/news/2015/05/Kubernetes-Borg-Eurosys/)
 * [2015-05-26 google集群操作系统borg](http://www.open-open.com/lib/view/open1432535373066.html)
 * [2016-04-05 Kubernetes集群高可用方案](http://mt.sohu.com/20160405/n443344559.shtml)
+* [2017-01-09 你想要的百分点大规模Kubernetes集群的应用实践来了](https://zhuanlan.zhihu.com/p/24795783)
 * [2017-03-19 Kubernetes的ConfigMap说明](https://www.cnblogs.com/breezey/p/6582082.html)
 * [2017-11-20 常用kubectl命令总结](https://www.cnblogs.com/Cherry-Linux/p/7866427.html)
 
@@ -228,6 +251,10 @@
 * [Apache Kylin | Installation Guide](http://kylin.apache.org/cn/docs20/install/)
 * [kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
 * [Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
+
+## Lantern
+
+* [2016-05-05 记一次ubuntu16.04 lantern安装过程(win用户也可以看看)](http://www.linuxdiyf.com/linux/20345.html)
 
 ## Machine Learning
 
@@ -268,6 +295,10 @@
 * [2015-12-04 微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936) [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
 * [2016-02-10 微服务实战（六）：选择微服务部署策略](http://dockone.io/article/1066) [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/?[utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
 * [2016-03-08 微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266) [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2016-09-07 如何做一个优秀的微服务访问安全设计方案](http://wwwbuild.net/greatops/414179.html)
+* [2016-09-08 王福强谈微服务：系统化考虑交付效率，掌握技术“手感”](http://www.infoq.com/cn/news/2016/09/docker-Scala-Defense-Depth?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+* [2016-12-08 Authentication Strategies in Microservices Systems](https://www.infoq.com/news/2016/12/microservices-authentication)
+* [2016-12-25 微服务架构设计](http://www.cnblogs.com/wintersun/p/6219259.html)
 
 ## Microsoft
 
@@ -283,15 +314,25 @@
 ## Node
 
 * [Node.js](https://nodejs.org/en/) [GitHub](https://github.com/nodejs/node)
+* [npm](https://github.com/npm/npm/tags)
+* [npm v2.7.3](https://github.com/npm/npm/archive/v2.7.3.zip)
+* [2011-11-22 在Windows平台上安装Node.js及NPM模块管理](http://www.cnblogs.com/seanlv/archive/2011/11/22/2258716.html)
 * [2014-03-20 使用 Node.js、Express、AngularJS 和 MongoDB 构建一个实时问卷调查应用程序](http://www.tuicool.com/articles/R7vaMr)
 
 ## Nginx
 
 * [2014-10-28 Nginx反向代理关于端口的问题](https://www.cnblogs.com/likehua/p/4056625.html)
+* [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
+* [2017-01-04 Nginx实现多域名证书HTTPS](http://www.cnblogs.com/kabi/p/6247561.html)
 
 ## OAuth
 
+* [OAuth 2.0](http://oauth.net/2/)
+* [2011-10-10 Google oauth 2.0](http://blog.csdn.net/totogogo/article/details/6860966)
+* [2012-07-06 OAuth 2.0 - Authorization Code授权方式详解](http://www.cnblogs.com/highend/archive/2012/07/06/oautn2_authorization_code.html)
+* [2014-03-20 OWIN OAuth 2.0 Authorization Server](http://www.asp.net/aspnet/overview/owin-and-katana/owin-oauth-20-authorization-server)
 * [2014-05-12 理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+* [2014-12-23 OAuth API密钥如何降低API安全威胁](http://sec.chinabyte.com/340/13184840.shtml)
 
 ## OpenSSL
 
@@ -311,9 +352,25 @@
 
 * [OSGi.NET 最简单强大的插件框架 - iOpenWorks.com](http://www.iOpenWorks.com) [文档](http://www.iopenworks.com/Documents/DocumentsList) [视频](http://www.iopenworks.com/Documents/DocumentsList/UserGuide_OSGi_Design_Overview) [介绍](http://www.cnblogs.com/baihmpgy/archive/2010/05/05/1727626.html)
 
+## Putty
+
+* [putty使用之保持连接不要自动断开](http://www.putty.ws/putty-lianjie)
+* [怎样正确的注销putty登录](http://www.putty.ws/putty-close)
+
+## Python
+
+* [pygame](http://www.pygame.org/download.shtml)
+* [2013-10-09 pygame系列_pygame安装](http://www.cnblogs.com/hongten/p/hongten_pygame_install.html)
+* [2016-06-03 Ubuntu部署python3.5的开发和运行环境](http://www.cnblogs.com/beer/p/5557497.html)
+* [2016-09-08 用 Python 实现 Python 解释器](https://linux.cn/article-7753-1.html?utm_source=weixin)
+
 ## React
 
 * [React](https://github.com/facebook/react) redux
+
+## Redmine
+
+* [2016-05-29 阿里云ECS+CentOS 7.0+Docker+Redmine环境搭建](http://www.cnblogs.com/iluzhiyong/p/redmine.html)
 
 ## Rundeck
 
@@ -411,6 +468,18 @@
 * [在idea环境下构建springCloud项目](http://www.jb51.net/article/128061.htm)
 * [如何使用windows版Docker并在IntelliJ IDEA使用Docker运行Spring Cloud项目](https://www.cnblogs.com/hei12138/p/ideausedocker.html)
 
+## SQLite
+
+* [一个小时内学习SQLite数据库](http://database.51cto.com/art/201205/335411.htm)
+* [SQL As Understood By SQLite](http://www.sqlite.org/lang.html)
+* [SQLite In 5 Minutes Or Less](http://www.sqlite.org/quickstart.html)
+* [Command Line Shell For SQLite](http://www.sqlite.org/cli.html)
+
+## SVN
+
+* [svn clean up 失败解决方法](http://www.tuicool.com/articles/biy6na)
+* [2013-09-24 TortoiseSVN Won't Allow Me To Add Any Files](http://stackoverflow.com/questions/18000363/tortoisesvn-wont-allow-me-to-add-any-files)
+
 ## Tableau
 
 * [2017-04-13 Tableau——Server单点登录](http://www.cnblogs.com/yiji-xing/p/6704556.html)
@@ -418,6 +487,10 @@
 * [2018-01-17 Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
 * [2018-01-17 受信任的身份验证的工作原理](http://onlinehelp.tableau.com/current/server/zh-cn/trusted_auth_how.htm)
 * [2018-01-17 测试受信任的身份验证](http://onlinehelp.tableau.com/current/server/zh-cn/trusted_auth_testing.htm)
+
+## Travis
+
+* [2013-04-14 利用Travis CI 让你的github项目持续构建(Node.js为例)](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
 
 ## UML
 
@@ -431,9 +504,132 @@
 
 * [VS Code中转换大小写功能](http://blog.csdn.net/u011127019/article/details/78079504)
 
+## VPN
+
+* [欢迎使用中国科学技术大学网络OpenVPN系统](http://openvpn.ustc.edu.cn/)
+* [在Ubuntu上安装PPTP VPN服务](http://blog.fens.me/ubuntu-vpn-pptp/)
+* [win7通过PPTP协议使用VPN](http://blog.fens.me/vpn-pptp-client-win7/)
+* [2012-02-15 OpenVPN：an error ocurred installing TAP device解决方法](http://blog.csdn.net/cserchen/article/details/7260511)
+* [2015-01-28 How To Set Up an OpenVPN Server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04)
+
 ## WeChat
 
+* [微信：PC客户端自定义插件接口](https://mp.weixin.qq.com/wiki/17/0160b650bc11ca90776343276e91082d.html)
+* [微信：获取客服聊天记录接口](https://mp.weixin.qq.com/wiki/19/7c129ec71ddfa60923ea9334557e8b23.html)
 * [Wechaty](https://github.com/wechaty/wechaty)
 * [微信聊天机器人 - 个人账号版](https://github.com/lyyyuna/wechat_robot)
 * [网页微信客户端封包大全](https://github.com/xiangzhai/qwx/blob/master/doc/protocol.md)
 * [2014-07-09 微信聊天记录怎么提取](http://zhidao.baidu.com/link?url=D8UifUcXIzd_OF4CQkruUESv_GRvkYT58rWlrqkI2z6_CTkbXn28ab90b0lz-yNxU_rF-R8dCV_kkYYfvaLK4e97UD-ZcbMJH5veJWrMHn_)
+* [2016-01-15 Web 微信与基于Node的微信机器人实现](http://reverland.org/javascript/2016/01/15/webchat-user-bot/)
+
+
+## 其他
+
+* [.NET库、工具、框架和软件的集合](http://www.open-open.com/lib/view/open1413117736593.html)
+* [.net强制退出主窗口的方法——Application.Exit()方法和Environment.Exit(0)方法](http://www.cnblogs.com/enterbeijingthreetimes/archive/2008/08/27/1277747.html)
+* [.NET中*延迟*特性的几个陷阱](http://www.chinaz.com/program/2009/0608/78735.shtml)
+* [2008-05-23 解决tsvncache.exe引起电脑慢的问题](http://blog.sina.com.cn/s/blog_4fe1599c01009okk.html) [TortoiseSVN解决TSVNCache.exe占住CPU的问题](http://www.doc88.com/p-9252322006892.html)
+* [2012-10-31 Ubuntu12.04下resolv.conf重启机器后失效的问题解决](http://blog.sina.com.cn/s/blog_484d87770101czlr.html)
+* [2012-11-19 ubuntu 添加管理员账号](http://blog.csdn.net/codebistu/article/details/8200908)
+* [2013-06-07 大话科技No.2：产品经理/码农/设计师的3P战争](https://www.huxiu.com/article/15543/1.html)
+* [2013-06-21 大话科技No.3：一个流氓眼中的物联网](https://www.huxiu.com/article/16197/1.html)
+* [2013-07-16 Ubuntu下ssh服务的安装与登陆（ssh远程登陆）](http://blog.csdn.net/zht666/article/details/9340633)
+* [2013-07-18 大话科技No.4：只有韦小宝最适合当产品经理](https://www.huxiu.com/article/17409/1.html)
+* [2013-07-30 大话科技No.5：面部识别，“禽兽，放开那个流氓！”](https://www.huxiu.com/article/17947/1.html)
+* [2013-08-12 大话科技No.6：可穿戴设备，剑指未来的一场春梦](https://www.huxiu.com/article/18627/1.html)
+* [2013-09-04 大话科技No.7：骨传导技术，让女神上车不再睡觉](https://www.huxiu.com/article/19851/1.html)
+* [2013-09-18 大话科技No.8：大数据！你能在色情行业里做什么！](https://www.huxiu.com/article/20528/1.html)
+* [2013-10-25 大话科技No.9：NFC技术，爱就贴一起，异地恋去死](https://www.huxiu.com/article/21996/1.html)
+* [2013-11-21 Zero Downtime, Instant Deployment and Rollback](http://www.ebaytechblog.com/2013/11/21/zero-downtime-instant-deployment-and-rollback/)
+* [2014-01-01 中国互联网网站统计史](https://my.oschina.net/leejun2005/blog/269292)
+* [2015-05-02 Windows10下搭建汇编语言开发环境（利用DOSBOX和MASM32）](http://blog.csdn.net/doniexun/article/details/45438457)
+* [2015-07-03 全方位对比Mesos、Omega和Borg](http://www.infoq.com/cn/articles/comparison-of-mesos-omega-and-borg/)
+* [2015-07-08 让日志变得神奇 — 云中使用 Docker 的 Elasticsearch：看看如何使用 IBM Containers 在 Bluemix 上轻松地管理您自己的 ELK 堆栈](http://jamesthom.as/blog/2015/07/08/making-logs-awesome-with-elasticsearch-and-docker/)
+* [2015-08-13 Push！请给用户一个打开APP的理由](http://36kr.com/p/5036352.html)
+* [2015-12-21 Package has no installation candidate解决方法](http://blog.csdn.net/lan120576664/article/details/50373571)
+* [2016-01-01 浅谈用户行为分析之用户身份识别：cookie 知多少？](https://my.oschina.net/leejun2005/blog/521851)
+* [2016-02-17 漫谈ELK在大数据运维中的应用](http://blog.csdn.net/lively1982/article/details/50678657)
+* [2016-02-21 U盘EFI模式启动电脑安装win10时出现这个无法继续安装 如何处理](https://zhidao.baidu.com/question/2010497871355199668.html)
+* [2016-06-09 使用Go构建RESTful的JSON API](http://blog.csdn.net/xingwangc2014/article/details/51623157)
+* [2016-06-16 深圳计划新增填海50平方公里](http://www.sznews.com/news/content/2016-06/16/content_13490306_4.htm)
+* [2016-06-24 AWS亚马逊 VS 阿里云』的深度比较&分析](http://sanwen8.cn/p/1e6XV5X.html)
+* [2016-07-18 Ubuntu 16.04网络配置](http://blog.csdn.net/hurricane_0x01/article/details/51941941)
+* [2016-08-02 etcd集群部署与遇到的坑](http://www.cnblogs.com/breg/p/5728237.html)
+* [2016-08-09 Ubuntu 16.04 几个国内更新源](http://www.cnblogs.com/bovenson/p/5752213.html)
+* [2016-09-02 Win10下安装VS2013出现“win10 windows兼容性模式已打开 请将其关闭”错误的解决办法](http://blog.csdn.net/smallflyingpig/article/details/52419832)
+* [2016-09-08 程序化广告实战分享系列 – PDB之坑（二）](https://zhuanlan.zhihu.com/p/22321821)
+* [2016-09-08 程序化广告实战分享系列 – PDB之坑（三）](https://zhuanlan.zhihu.com/p/22368230)
+* [2016-09-08 程序化广告实战分享系列 – PDB之坑（一）](https://zhuanlan.zhihu.com/p/22320738)
+* [2016-09-08 分库分表的几种常见形式以及可能遇到的难题](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598135&idx=1&sn=2f1daf51d92b9c5ed06d9422fdd19d49&scene=1&srcid=09098hfgOM3438bvOKHICIBX#rd)
+* [2016-10-24 BBC系列：“神秘的混沌理论”](http://mp.weixin.qq.com/s?__biz=MjM5MTgyNTk1NA==&mid=2649899064&idx=1&sn=4cdbb5fc3283713a8191b9b683371ccb&chksm=bea9497589dec063e1a4e321c9a0097d0a49908264517e4ba41dba8244223ee7a4fe396c7eac&mpshare=1&scene=1&srcid=1024IYemsog0ePK43Vh30kgh#rd)
+* [2016-11-18 Create an offline installation of Visual Studio 2017 RC](https://docs.microsoft.com/zh-cn/visualstudio/install/create-an-offline-installation-of-visual-studio)
+* [2016-11-18 Use Command-Line Parameters to Install Visual Studio 2017 RC](https://docs.microsoft.com/zh-cn/visualstudio/install/use-command-line-parameters-to-install-visual-studio)
+* [2016-11-28 APP无埋点流程](http://www.jianshu.com/p/6f47fc648e69)
+* [2016-12-06 技术大咖告诉你离精准销售预测还有多远？](http://www.baifendian.com/bigdata/423.html)
+* [2016-12-19 APP消息推送（Push），竟然还有这么多你不知道的](http://www.jianshu.com/p/194819dfc76e)
+* [2017-02-23 为什么CEO挖的坑，CTO一栽一个准？](https://view.inews.qq.com/a/20170223A040ZJ00)
+* [2017-12-20 macOS 10.13 安装Virtualbox失败](https://www.cnblogs.com/hello-lijj/p/8073236.html)
+* [37国内五大问卷调查平台盈利模式分析](http://3y.uu456.com/bp-sdcdcbb81qsf312b306qas3a-1.html)
+* [AppDomain.AssemblyResolve Event](http://msdn.microsoft.com/en-us/library/system.appdomain.assemblyresolve%28v=vs.110%29.aspx)
+* [C# CancellationTokenSource 终止线程](http://www.wxzzz.com/689.html)
+* [C# 编译器错误](http://msdn.microsoft.com/zh-cn/library/ms228296%28v=vs.100%29.aspx)
+* [C#中使用ListView动态添加数据不闪烁](http://www.cnblogs.com/zdkjob/archive/2012/01/17/2324618.html)
+* [D+ 常见问答](https://support.dnspod.cn/Kb/showarticle/tsid/216/)
+* [Download MySQL Connector/ODBC](http://dev.mysql.com/downloads/connector/odbc/)
+* [EditPlus Registration Code](http://blog.sina.com.cn/s/blog_559d66460101bv45.html) 注册名：Free User 注册码：6AC8D-784D8-DDZ95-B8W3A-45TFA
+* [File is being used by another process](http://stackoverflow.com/questions/3737444/file-is-being-used-by-another-process)
+* [Five Best Remote Desktop Tools](http://lifehacker.com/5080121/five-best-remote-desktop-tools)
+* [How to load an assembly at runtime that is located in a folder that is not the bin folder of the application ](http://support.microsoft.com/kb/837908/nl)
+* [Linux dd 测试硬盘的读写性能](http://blog.itpub.net/73920/viewspace-1036120/)
+* [Linux使用FIO测试磁盘的iops](http://blog.chinaunix.net/uid-8116903-id-3914246.html)
+* [Linux性能测试UnixBench一键脚本](http://teddysun.com/245.html)
+* [log4net ConversionPattern](http://liujingliang.blog.sohu.com/65482244.html)
+* [Mongoose使用案例–让JSON数据直接入库MongoDB](http://blog.fens.me/nodejs-mongoose-json/)
+* [Net 如保证ListView增加一项后滚动条保证在最底部](http://www.cnblogs.com/freedom831215/archive/2010/08/22/1805610.html)
+* [PCHelpware](http://www.uvnc.com/products/pchelpware.html)
+* [program-think 电子书总目录](https://code.google.com/p/program-think/wiki/Books)
+* [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+* [RESTful API 设计最佳实践](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
+* [Sandcastle Help File Builder 使用说明](http://www.cnblogs.com/ASPNET2008/archive/2010/07/09/1774459.html)
+* [Sandcastle Help File Builder 使用注意事项](http://blog.itpub.net/279284/viewspace-137189/)
+* [Sandcastle Help File Builder](http://shfb.codeplex.com/)
+* [TestLink 管理员手册](http://www.ossxp.com/doc/testlink/admin_guide/admin_guide.html#id6)
+* [TestLink](http://sourceforge.net/projects/testlink/files/)
+* [Thread的问题](http://www.cnblogs.com/binaryworms/articles/1873373.html)
+* [Tutorial: use the apigee.com interactive REST console](https://msdn.microsoft.com/en-us/library/office/dn575419.aspx)
+* [Uglifyjs入门](http://www.cnblogs.com/snandy/archive/2012/03/03/2377390.html)
+* [UltraISO制作U盘启动盘安装Win7系统攻略](http://jingyan.baidu.com/article/ca2d939df51697eb6d31ce10.html)
+* [UltraVNC Features](http://www.uvnc.com/products/uvnc-server.html)
+* [uvnc2me](http://www.uvnc.com/products/59-uvnc2me/106-uvnc2me.html)
+* [VPS性能测试 CPU内存,硬盘IO读写,带宽速度,UnixBench和压力测试](http://www.freehao123.com/vps-cpu-io-unixbench/)
+* [VS2010 NDoc的插件工具](http://www.cnblogs.com/luoyaoquan/archive/2011/05/16/2047805.html)
+* [Web API设计方法论](http://kb.cnblogs.com/page/513056/)
+* [What is TightVNC](http://www.tightvnc.com/)
+* [WIN7开机如何自动登录](http://zhidao.baidu.com/link?url=M344n7APRX1sU9L03pl0VZ_eeOcyMx0j_g-kt80f6PTW8Ci3gF-i4Vfrsg6wlteIM2dWj6ZRkUoLqaK5iP_c-q) rundll32 netplwiz.dll,UsersRunDll
+* [Windows 8系统如何开启与禁用管理员账户方法](http://jingyan.baidu.com/article/5552ef4739d1f1518efbc96a.html)
+* [阿里云服务器性能与优势专题](http://www.chinaz.com/special/cloudtest/)
+* [初识云计算的三种服务模式（aaS SaaS PaaS）](http://blog.csdn.net/lovesummerforever/article/details/35857865)
+* [分布式关系型数据库服务DRDS](http://www.aliyun.com/product/drds/?spm=5176.7114037.201.9.qeKwGF#Customer)
+* [改善C#程序的建议7：正确停止线程](http://www.cnblogs.com/luminji/archive/2011/05/08/2040170.html)
+* [关于Microsoft Virtual WiFi Miniport Adapter的添加删除](http://www.cnblogs.com/yingying316/archive/2012/03/13/2393936.html)
+* [基于 RESTful 接口的前端 MVC 架构](http://www.lovelucy.info/mvc-in-front-end-web-app-development-based-on-restful-api-design.html)
+* [加载启动目录以外的DLL(Assembley)的3种方法](http://www.cnblogs.com/findcaiyzh/archive/2009/02/04/1979554.html)
+* [开放结构化数据服务OTS](http://www.aliyun.com/product/ots/?spm=5176.7622920.3.7.XV1pxw)
+* [开放静态文件 CDN](http://www.staticfile.org/)
+* [两张图片告诉你为什么域名会被解析到65.49.2.178](http://www.freebuf.com/articles/network/24360.html)
+* [盘点国内网站常用的一些CDN公共库加速服务](http://www.admin10000.com/document/4614.html)
+* [如何：调试 Windows 服务应用程序](http://msdn.microsoft.com/zh-cn/library/7a50syb3%28VS.80%29.aspx)
+* [如何弹出一个模式窗口来显示进度条](http://blog.csdn.net/knight94/article/details/757351)
+* [如何在运行时加载不处于应用程序目录下的assembly](http://www.cnblogs.com/xenogear/archive/2004/09/16/43730.html)
+* [如何在子线程中操作窗体上的控件](http://blog.csdn.net/knight94/article/details/626584)
+* [使用 Sandcastle Help File Builder 制作 VS.NET 的 HELP 文件](http://www.cnblogs.com/jeff377/archive/2008/11/15/1334233.html)
+* [使用gradle生成Spring Boot应用的Docker Image](http://www.jdon.com/dl/best/docker-containers-with-gradle-in-4-steps.html)
+* [使用PostSharp在.NET平台上实现AOP](http://www.cnblogs.com/leoo2sk/archive/2010/11/30/aop-postsharp.html)
+* [调查派](http://www.diaochapai.com/price)
+* [问卷星](https://www.sojump.com/intro.aspx)
+* [虚拟研讨会：如何设计好的RESTful API？](http://www.infoq.com/cn/articles/how-to-design-a-good-restful-api/)
+* [一个封锁操作被对 WSACancelBlockingCall 的调用中断 ErrorCode=10004](http://www.cnblogs.com/xiwang/archive/2012/10/25/2740114.html)
+* [移动解析服务D+](https://www.dnspod.cn/httpdns)
+* [疑难解答：调试 Windows 服务](http://msdn.microsoft.com/zh-cn/library/kbe0xeh6%28v=vs.80%29.aspx)
+* [在 WinForm 中使用进度条展示长时间任务的执行进度](http://www.cnblogs.com/haogj/archive/2012/12/13/2817047.html)
+
