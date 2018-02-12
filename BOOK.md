@@ -29,8 +29,6 @@
 * [2017-01-17 《大数据产业发展规划（2016－2020年）》解读](http://www.miit.gov.cn/n1146295/n1652858/n1653018/c5465700/content.html)
 * [2017-02-14 总听大佬说起数字化转型，但你真正理解什么是数字化吗？](http://blog.csdn.net/laowxl/article/details/55191987)
 * [2017-09-20 王文京关于企业数字化转型的八大观点](http://www.kejixun.com/article/170920/373461.shtml)
-
-
 * [2017-11-01 中华人民共和国国家标准 信息技术 数据溯源描述模型 （2018-05-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=B05FB0694A5C2E9995C50F8F57645304)
 * [2017-12-09 习近平：推动实施国家大数据战略 加快建设数字中国](http://www.xinhuanet.com/politics/2017-12/09/c_1122084706.htm)
 * [2017-12-12 习近平：实施国家大数据战略，加快建设数字中国](http://www.thebigdata.cn/YeJieDongTai/35064.html)
@@ -176,6 +174,7 @@
 
 * [2016-08-04 Kafka与Logstash的数据采集对接 —— 看图说话，从运行机制到部署](http://www.cnblogs.com/xing901022/p/5738485.html)
 * [2017-03-20 ELK5.0安装教程](http://www.cnblogs.com/xing901022/p/6591260.html)
+* [2017-03-24 聊聊Flume和Logstash的那些事儿](http://blog.csdn.net/jek123456/article/details/65658790)
 
 ## Maven
 
@@ -291,6 +290,8 @@
 * [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure](https://zhidao.baidu.com/question/623417115070490444.html)
 * [java - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link](https://stackoverflow.com/questions/12593634/com-mysql-jdbc-exceptions-jdbc4-communicationsexception-communications-link)
 * [spark on yarn cluster部署中遇到的坑](http://evenx86.github.io/2016/10/11/spark-submit-on-yarn/)
+* [Spark Streaming重复消费,多次输出问题剖析与解决方案](https://my.oschina.net/jfld/blog/671189)
+* [How to Configure YARN and MapReduce 2 in Hortonworks Data Platform 2.0](https://hortonworks.com/blog/how-to-plan-and-configure-yarn-in-hdp-2-0/)
 * [2014-07-31 Yarn简单介绍及内存配置](http://blog.chinaunix.net/uid-28311809-id-4383551.html)
 * [2014-08-19 Spark 性能相关参数配置详解－Storage篇](http://blog.csdn.net/colorant/article/details/38681379)
 * [2015-04-28 hadoop - Yarn - why doesn't task go out of heap space but container gets killed?](https://stackoverflow.com/questions/28404714/yarn-why-doesnt-task-go-out-of-heap-space-but-container-gets-killed)
@@ -308,10 +309,10 @@
 * [2016-12-01 spark submit参数调优](http://blog.csdn.net/chenjieit619/article/details/53421080)
 * [2016-12-08 spark-submit提交任务的方式](http://blog.csdn.net/u010181136/article/details/53514962)
 * yarn logs -applicationId application_1517977256046_0031 > execption
+* [2017-1-1 使用Flume+Logstash+Kafka+Spark Streaming进行实时日志处理分析【公安大数据】](http://www.aboutyun.com/thread-20705-1-1.html)
+* [2017-02-24 Flume+Kafka+Sparkstreaming日志分析](http://blog.csdn.net/jingqiang521/article/details/56915923)
 * [2017-02-27 WARN YarnClusterScheduler: not accepted any resources](http://blog.sina.com.cn/s/blog_4b1452dd0102wyzo.html)
 * [2017-12-29 基于CDH 5.9.1 搭建 Hive on Spark 及相关配置和调优](https://www.cnblogs.com/kongcong/p/8144782.html)
-* [Spark Streaming重复消费,多次输出问题剖析与解决方案](https://my.oschina.net/jfld/blog/671189)
-* [How to Configure YARN and MapReduce 2 in Hortonworks Data Platform 2.0](https://hortonworks.com/blog/how-to-plan-and-configure-yarn-in-hdp-2-0/)
 
 ## Spring Boot
 
