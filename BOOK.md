@@ -19,6 +19,8 @@
 
 ## Big Data
 
+* [数字化转型](http://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)
+* [云上贵州](https://www.gzdata.com.cn/)
 * [2015-08-31 国务院关于印发促进大数据发展行动纲要的通知](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
 * [2015-09-06 图解：促进大数据发展行动纲要](http://www.gov.cn/xinwen/2015-09/06/content_2925754.htm)
 * [2015-09-17 《关于促进大数据发展行动纲要》解读](http://www.xinhuanet.com/info/2015-09/17/c_134632375.htm)
@@ -27,12 +29,19 @@
 * [2017-01-17 《大数据产业发展规划（2016－2020年）》解读](http://www.miit.gov.cn/n1146295/n1652858/n1653018/c5465700/content.html)
 * [2017-02-14 总听大佬说起数字化转型，但你真正理解什么是数字化吗？](http://blog.csdn.net/laowxl/article/details/55191987)
 * [2017-09-20 王文京关于企业数字化转型的八大观点](http://www.kejixun.com/article/170920/373461.shtml)
+
+
+* [2017-11-01 中华人民共和国国家标准 信息技术 数据溯源描述模型 （2018-05-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=B05FB0694A5C2E9995C50F8F57645304)
 * [2017-12-09 习近平：推动实施国家大数据战略 加快建设数字中国](http://www.xinhuanet.com/politics/2017-12/09/c_1122084706.htm)
 * [2017-12-12 习近平：实施国家大数据战略，加快建设数字中国](http://www.thebigdata.cn/YeJieDongTai/35064.html)
+* [2017-12-29 中华人民共和国国家标准 信息技术 云计算 平台即服务（PaaS）参考架构 （2017-12-29实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=A95528B497C5D9DE6496AE246CEBF68B)
+* [2017-12-29 中华人民共和国国家标准 信息技术 大数据 技术参考模型 （2018-07-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=E559F4E2E5946F346D11DE275622C54D)
+* [2017-12-29 中华人民共和国国家标准 信息技术 大数据 术语 （2018-07-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=8B5E9AC58EDB0B0E6434A7A06A0093D1)
+* [2017-12-29 中华人民共和国国家标准 信息安全技术 大数据服务安全能力要求 （2018-07-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=55D9D55F55E286E0C534E46B778419C1)
+* [2017-12-29 中华人民共和国国家标准 信息技术 科学数据引用 （2018-07-01实施）](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=A495CA355BAF00D962AA8DD84C3B2C16)
 * [2017-12-29 武汉大学-世纪高通时空大数据联合实验室揭牌](http://sim.whu.edu.cn/xwdt/2017-12-29/5688.html)
 * [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
 * [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
-* [数字化转型](http://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)
 
 ## CDH
 
@@ -162,6 +171,11 @@
 
 * [huxiaoman7/Machine-Learning-Algorithms: 自己总结的机器学习的算法与相应的程序](https://github.com/huxiaoman7/Machine-Learning-Algorithms)
 * [Charlotte77](http://www.cnblogs.com/charlotte77/)
+
+## Logstash
+
+* [2016-08-04 Kafka与Logstash的数据采集对接 —— 看图说话，从运行机制到部署](http://www.cnblogs.com/xing901022/p/5738485.html)
+* [2017-03-20 ELK5.0安装教程](http://www.cnblogs.com/xing901022/p/6591260.html)
 
 ## Maven
 
