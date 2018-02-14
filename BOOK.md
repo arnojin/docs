@@ -392,6 +392,7 @@
 * [2012-10-31 Ubuntu12.04下resolv.conf重启机器后失效的问题解决](http://blog.sina.com.cn/s/blog_484d87770101czlr.html)
 * [2012-11-19 ubuntu 添加管理员账号](http://blog.csdn.net/codebistu/article/details/8200908)
 * [2015-02-24 linux expect详解(ssh自动登录)](https://www.cnblogs.com/lzrabbit/p/4298794.html)
+* [2016-09-21 CentOS7的启动及Systemd的管理](http://www.178linux.com/48130)
 * [2016-10-09 sh脚本异常：/bin/sh^M:bad interpreter: No such file or directory](https://www.cnblogs.com/houpeiyong/p/5942834.html)
 * [2016-11-21 centos7 Linux 尝试使用crontab](https://www.cnblogs.com/lzhp/p/6087525.html)
 
