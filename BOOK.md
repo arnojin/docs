@@ -354,6 +354,7 @@
 * [Oracle常用查看表结构命令](https://www.cnblogs.com/tv151579/archive/2013/05/27/3102754.html)
 * [Tnsnames.ora](http://orafaq.com/wiki/Tnsnames.ora)
 * [Listener.ora](http://orafaq.com/wiki/Listener.ora)
+* [2017-05-04 oracle如何修改单个用户密码永不过期](http://blog.51cto.com/xjsunjie/1922101)
 
 ## OSGI
 
