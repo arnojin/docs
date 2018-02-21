@@ -267,7 +267,9 @@
 ## Markdown
 
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
+* [LaTeX-Assistent / Editor](https://www.matheretter.de/rechner/latex/)
 * [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+* [MathJax: LaTeX Basic Tutorial und Referenz (Deutsch)](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
 
 ## Math
 
