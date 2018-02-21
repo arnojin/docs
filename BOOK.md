@@ -264,6 +264,11 @@
 * [huxiaoman7/Machine-Learning-Algorithms: 自己总结的机器学习的算法与相应的程序](https://github.com/huxiaoman7/Machine-Learning-Algorithms)
 * [Charlotte77](http://www.cnblogs.com/charlotte77/)
 
+## Markdown
+
+** [Cmd Markdown](https://www.zybuluo.com/mdeditor)
+** [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+
 ## Maven
 
 * [maven国内镜像](https://www.cnblogs.com/faunjoe88/p/7691125.html)
