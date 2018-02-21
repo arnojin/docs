@@ -60,6 +60,10 @@
 * [扫盲 BT Sync](http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html)
 * [2018-01-23 The Ultimate Guide to Cryptocurrency and Blockchain](http://www.oddup.com/article/the-ultimate-guide-to-cryptocurrency-and-blockchain)
 
+## Bower
+
+* [Bower — a package manager for the web](https://bower.io/)
+
 ## CDH
 
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
@@ -267,6 +271,7 @@
 
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 * [LaTeX-Assistent / Editor](https://www.matheretter.de/rechner/latex/)
+* [MathJax-docs/installation.rst](https://github.com/mathjax/MathJax-docs/blob/master/installation.rst)
 * [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 * [2018-01-15 MathJax: LaTeX Basic Tutorial und Referenz (Deutsch)](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
 
