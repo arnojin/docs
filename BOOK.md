@@ -266,8 +266,12 @@
 
 ## Markdown
 
-** [Cmd Markdown](https://www.zybuluo.com/mdeditor)
-** [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+* [Cmd Markdown](https://www.zybuluo.com/mdeditor)
+* [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+
+## Math
+
+* [2017-03-14 MIT-线性代数笔记（1-6）](https://www.cnblogs.com/chaoran/p/6543519.html)
 
 ## Maven
 
