@@ -24,11 +24,11 @@
 
 ## Beam
 
+* [Apache Beam研究报告](https://m.aliyun.com/yunqi/articles/71057)
+* [跟ApacheBeam学质量控制之道](https://m.aliyun.com/yunqi/articles/113940?spm=5176.11156381.0.0.49a92a3eTDVk8n)
 * [2017-02-10 为什么Google用Apache Beam彻底替换掉MapReduce](http://www.infoq.com/cn/articles/why-google-replace-beam-with-apache-mapreduce/)
 * [2017-03-19 四个动画秒懂 Apache Beam 模型](https://www.jianshu.com/p/357bf071d017)
 * [2017-04-09 Apache Beam 剖析](https://www.cnblogs.com/smartloli/p/6685106.html)
-* [Apache Beam研究报告](https://m.aliyun.com/yunqi/articles/71057)
-* [跟ApacheBeam学质量控制之道](https://m.aliyun.com/yunqi/articles/113940?spm=5176.11156381.0.0.49a92a3eTDVk8n)
 
 ## Big Data
 
@@ -57,15 +57,15 @@
 
 ## Blockchain 区块链
 
-* [2018-01-23 The Ultimate Guide to Cryptocurrency and Blockchain](http://www.oddup.com/article/the-ultimate-guide-to-cryptocurrency-and-blockchain)
 * [扫盲 BT Sync](http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html)
+* [2018-01-23 The Ultimate Guide to Cryptocurrency and Blockchain](http://www.oddup.com/article/the-ultimate-guide-to-cryptocurrency-and-blockchain)
 
 ## CDH
 
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
+* [2015-10-27 cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
+* [2016-05-26 Cloudera Manager(CDH5)内部结构、功能包括配置文件、目录位置等](http://blog.csdn.net/levy_cui/article/details/51507950)
 * [2018-02-05 从入门到精通 - Fayson带你玩转CDH](http://mp.weixin.qq.com/s/FgjVnQv6tsnhN_-Fl9vvzA)
-* [cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
-* [Cloudera Manager(CDH5)内部结构、功能包括配置文件、目录位置等](http://blog.csdn.net/levy_cui/article/details/51507950)
 
 ## Consul
 
@@ -183,7 +183,6 @@
 * [JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-32)
 * [JSON Web Tokens(JWT)教程](http://www.jdon.com/artichect/json-web-tokens.html)
 * [使用JSON Web Tokens和Spring实现微服务](http://www.jdon.com/dl/best/json-web-tokens-spring-cloud-microservices.html)
-
 * [2010-09-17 windows下如何github ssh 公钥](http://www.cnblogs.com/igrl/archive/2010/09/17/1829358.html)
 * [2012-01-15 SVN迁移到Git的过程（+ 一些技巧）](http://www.cnblogs.com/h2zZhou/p/6136913.html)
 * [2010-03-17 持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) [2006-05-01 Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -252,8 +251,8 @@
 ## Kylin 麒麟
 
 * [Apache Kylin | Installation Guide](http://kylin.apache.org/cn/docs20/install/)
-* [kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
-* [Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
+* [2017-06-22 Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
+* [2017-09-06 kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
 
 ## Lantern
 
@@ -262,14 +261,14 @@
 ## Machine Learning
 
 * [huxiaoman7/Machine-Learning-Algorithms: 自己总结的机器学习的算法与相应的程序](https://github.com/huxiaoman7/Machine-Learning-Algorithms)
-* [Charlotte77](http://www.cnblogs.com/charlotte77/)
+* [2018-02-01 数学系的数据挖掘民工 Charlotte77](http://www.cnblogs.com/charlotte77/)
 
 ## Markdown
 
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 * [LaTeX-Assistent / Editor](https://www.matheretter.de/rechner/latex/)
 * [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-* [MathJax: LaTeX Basic Tutorial und Referenz (Deutsch)](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
+* [2018-01-15 MathJax: LaTeX Basic Tutorial und Referenz (Deutsch)](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
 
 ## Math
 
@@ -277,6 +276,8 @@
 
 ## Maven
 
+* mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
+* mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
 * [maven国内镜像](https://www.cnblogs.com/faunjoe88/p/7691125.html)
 * [IntelliJ IDEA创建maven多模块项目](https://www.cnblogs.com/wangmingshun/p/6383576.html)
 * [Maven Repository: Cloudera](https://mvnrepository.com/repos/cloudera)
@@ -284,8 +285,6 @@
 * [Maven Repository: org.apache.hive » hive-exec » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-exec/1.1.0-cdh5.12.0)
 * [maven中加载Oracle驱动报错问题](http://blog.csdn.net/maobois/article/details/51884179)
 * [2017-03-16 Maven中添加Oracle jdbc jar包](http://blog.csdn.net/princeluan/article/details/62298902)
-* mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -Dfile=ojdbc6.jar
-* mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc8 -Dversion=12.2.0.1.0 -Dpackaging=jar -Dfile=ojdbc8.jar
 * [2016-10-12 intellij 出现“Usage of API documented as @since 1.6+”的解决办法](https://www.cnblogs.com/cxj20160928/p/5954196.html)
 
 ## Microservices
