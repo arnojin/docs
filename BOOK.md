@@ -271,6 +271,7 @@
 
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 * [LaTeX-Assistent / Editor](https://www.matheretter.de/rechner/latex/)
+* [Markdown+Math](https://github.com/goessner/mdmath)
 * [MathJax-docs/installation.rst](https://github.com/mathjax/MathJax-docs/blob/master/installation.rst)
 * [2018-01-15 MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 * [2018-01-15 MathJax: LaTeX Basic Tutorial und Referenz (Deutsch)](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
@@ -564,7 +565,7 @@
 * [EditPlus Registration Code](http://blog.sina.com.cn/s/blog_559d66460101bv45.html) 注册名：Free User 注册码：6AC8D-784D8-DDZ95-B8W3A-45TFA
 * [File is being used by another process](http://stackoverflow.com/questions/3737444/file-is-being-used-by-another-process)
 * [Five Best Remote Desktop Tools](http://lifehacker.com/5080121/five-best-remote-desktop-tools)
-* [How to load an assembly at runtime that is located in a folder that is not the bin folder of the application ](http://support.microsoft.com/kb/837908/nl)
+* [How to load an assembly at runtime that is located in a folder that is not the bin folder of the application](http://support.microsoft.com/kb/837908/nl)
 * [Linux dd 测试硬盘的读写性能](http://blog.itpub.net/73920/viewspace-1036120/)
 * [Linux使用FIO测试磁盘的iops](http://blog.chinaunix.net/uid-8116903-id-3914246.html)
 * [Linux性能测试UnixBench一键脚本](http://teddysun.com/245.html)
