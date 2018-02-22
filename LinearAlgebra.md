@@ -212,3 +212,17 @@ $$
 $$
     \mathbb {ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}
 $$
+
+$$a{\bold e}\alpha + b\tilde{\bold e}\alpha + c{\bold e}_x = \bold 0$$
+
+$${\bold e}\alpha = \begin{pmatrix}\cos\alpha\ \sin\alpha\end{pmatrix} \quad and \quad {\tilde\bold e}\alpha = \begin{pmatrix}-\sin\alpha\ \cos\alpha\end{pmatrix}$$
+
+$$-c{\bold e}x = a{\bold e}\alpha + b\tilde{\bold e}_\alpha$$
+
+$$c^2 = a^2 + b^2$$ (2)
+
+$cp = a^2$
+
+$cq = b^2$
+
+$pq = h^2$
