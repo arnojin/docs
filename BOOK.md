@@ -34,6 +34,7 @@
 
 * [数字化转型](http://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)
 * [云上贵州](https://www.gzdata.com.cn/)
+* [chubbyjiang/Bigdata_Components_Guide](https://github.com/chubbyjiang/Bigdata_Components_Guide)
 * [2015-08-31 国务院关于印发促进大数据发展行动纲要的通知](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
 * [2015-09-06 图解：促进大数据发展行动纲要](http://www.gov.cn/xinwen/2015-09/06/content_2925754.htm)
 * [2015-09-17 《关于促进大数据发展行动纲要》解读](http://www.xinhuanet.com/info/2015-09/17/c_134632375.htm)
@@ -384,6 +385,7 @@
 ## Python
 
 * [pygame](http://www.pygame.org/download.shtml)
+* [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python)
 * [2013-10-09 pygame系列_pygame安装](http://www.cnblogs.com/hongten/p/hongten_pygame_install.html)
 * [2016-06-03 Ubuntu部署python3.5的开发和运行环境](http://www.cnblogs.com/beer/p/5557497.html)
 * [2016-09-08 用 Python 实现 Python 解释器](https://linux.cn/article-7753-1.html?utm_source=weixin)
@@ -458,6 +460,8 @@
 * [2015-04-28 hadoop - Yarn - why doesn't task go out of heap space but container gets killed?](https://stackoverflow.com/questions/28404714/yarn-why-doesnt-task-go-out-of-heap-space-but-container-gets-killed)
 * [2015-01-10 【Spark十九】Spark on YARN部署](http://bit1129.iteye.com/blog/2174677)
 * [2015-01-14 【Spark二十二】在Intellij Idea中调试运行Spark应用程序](http://bit1129.iteye.com/blog/2175968)
+* [2015-03-09 How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+* [2015-03-30 How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
 * [2015-06-09 Spark On YARN内存分配](http://blog.javachen.com/2015/06/09/memory-in-spark-on-yarn.html?utm_source=tuicool)
 * [2015-06-15 spark.task.maxFailures not working as expected](https://stackoverflow.com/questions/30593923/spark-task-maxfailures-not-working-as-expected)
 * [2015-07-16 hadoop - Container is running beyond memory limits](https://stackoverflow.com/questions/21005643/container-is-running-beyond-memory-limits)
