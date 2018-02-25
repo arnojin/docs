@@ -371,6 +371,9 @@
 * [Oracle常用查看表结构命令](https://www.cnblogs.com/tv151579/archive/2013/05/27/3102754.html)
 * [Tnsnames.ora](http://orafaq.com/wiki/Tnsnames.ora)
 * [Listener.ora](http://orafaq.com/wiki/Listener.ora)
+* [2010-03-31 ORA-01653: 解决方案](http://liyueling.iteye.com/blog/629125)
+* [2014-09-24 Oracle 查看表空间的大小及使用情况sql语句](http://blog.itpub.net/223653/viewspace-1279271/)
+* [2017-05-15 Oracle解决ora-01653 无法通过1024扩展](https://www.cnblogs.com/WAbby/p/6857531.html)
 * [2017-05-04 oracle如何修改单个用户密码永不过期](http://blog.51cto.com/xjsunjie/1922101)
 
 ## OSGI
