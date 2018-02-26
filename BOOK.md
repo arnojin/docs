@@ -517,6 +517,12 @@
 
 ## Tableau
 
+* [Tableau 开发人员工具](https://www.tableau.com/zh-cn/developer)
+* [嵌入式分析 Embedded Analytics](https://www.tableau.com/zh-cn/developer/embedded-analytics)
+* [JavaScript API Embedded Analytics](https://www.tableau.com/zh-cn/developer/embedded-analytics#reveal)
+* [Tableau's Embedded Analytics Playbook](https://tableau.github.io/embedding-playbook/)
+* [Tableau JavaScript API](https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm)
+* [Sample code for the Tableau JavaScript API](https://github.com/tableau/js-api-samples)
 * [2017-04-13 Tableau——Server单点登录](http://www.cnblogs.com/yiji-xing/p/6704556.html)
 * [2017-12-18 错误“无法使用给定 CA 证书验证对等证书”](http://kb.tableau.com/articles/Issue/error-peer-certificate-cannot-be-authenticated-with-given-ca-certificates?lang=zh)
 * [2018-01-17 Tableau Server 端口](http://onlinehelp.tableau.com/current/server/zh-cn/ports.htm)
