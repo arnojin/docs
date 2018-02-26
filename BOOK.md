@@ -35,6 +35,7 @@
 * [数字化转型](http://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)
 * [云上贵州](https://www.gzdata.com.cn/)
 * [chubbyjiang/Bigdata_Components_Guide](https://github.com/chubbyjiang/Bigdata_Components_Guide)
+* [深圳市统计局 统计月报](http://www.sztj.gov.cn/xxgk/tjsj/tjyb/)
 * [2015-08-31 国务院关于印发促进大数据发展行动纲要的通知](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
 * [2015-09-06 图解：促进大数据发展行动纲要](http://www.gov.cn/xinwen/2015-09/06/content_2925754.htm)
 * [2015-09-17 《关于促进大数据发展行动纲要》解读](http://www.xinhuanet.com/info/2015-09/17/c_134632375.htm)
