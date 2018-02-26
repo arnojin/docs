@@ -156,6 +156,8 @@
 ## Hive
 
 * [LanguageManual Types - Apache Hive - Apache Software Foundation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Types)
+* [2014-04-06 Hive.GROUPING SETS的“陷阱”](http://blog.csdn.net/mashroomxl/article/details/23022123)
+* [2015-12-03 Hive_6. 数据聚合 -- Group By & Grouping_SETS & RollUp & CUBE & Having](http://blog.csdn.net/Mike_H/article/details/50161407)
 * [2016-01-09 HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
 * [2016-03-13 Hive中的数据类型和文件格式](http://blog.csdn.net/universe_ant/article/details/50879382)
 * [2016-09-28 几个连接HiveServer的客户端界面工具](http://lxw1234.com/archives/2016/09/723.htm)
