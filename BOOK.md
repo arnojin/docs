@@ -71,6 +71,9 @@
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
 * [2015-10-27 cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
 * [2016-05-26 Cloudera Manager(CDH5)内部结构、功能包括配置文件、目录位置等](http://blog.csdn.net/levy_cui/article/details/51507950)
+* [2017-10-22 如何为Hadoop集群选择正确的硬件](http://mp.weixin.qq.com/s/MjTK2F41KnRGaJUG-R642Q)
+* [2017-11-03 CDH安装前置准备](https://mp.weixin.qq.com/s/aGa4vhI3b75ITy3GGr1iFQ)
+* [2018-01-25 如何给Hadoop集群划分角色](https://mp.weixin.qq.com/s/KcTAAo4nrMw-xKCZiChK_w)
 * [2018-02-05 从入门到精通 - Fayson带你玩转CDH](http://mp.weixin.qq.com/s/FgjVnQv6tsnhN_-Fl9vvzA)
 
 ## Consul
