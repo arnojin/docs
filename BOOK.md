@@ -494,6 +494,7 @@
 * [使用gradle生成Spring Boot应用的Docker Image](http://www.jdon.com/dl/best/docker-containers-with-gradle-in-4-steps.html)
 * [springboot - 随笔分类](http://www.cnblogs.com/ityouknow/category/914493.html)
 * [springboot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/springboot(%E4%B8%80)-%E5%85%A5%E9%97%A8%E7%AF%87.html)
+* [2016-01-19 sql - Spark replacement for EXISTS and IN](https://stackoverflow.com/questions/34861516/spark-replacement-for-exists-and-in)
 * [2016-05-12 【详解】为什么选择Spring Boot作为微服务的入门级微框架](http://www.csdn.net/article/a/2016-05-12/15838098)
 * [2017-04-04 IntelliJ IDEA搭建SpringBoot应用](https://www.cnblogs.com/winner-0715/p/6666302.html)
 * [2017-10-04 如何使用windows版Docker并在IntelliJ IDEA使用Docker运行Spring Cloud项目](https://www.cnblogs.com/hei12138/p/ideausedocker.html)
