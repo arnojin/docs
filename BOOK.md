@@ -174,6 +174,10 @@
 
 * [Hystrix](https://github.com/Netflix/Hystrix/wiki)
 
+## IntelliJ IDEA
+
+* [judasn/IntelliJ-IDEA-Tutorial: IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
 ## Ionic
 
 * [Ionic: Advanced HTML5 Hybrid Mobile App Framework](http://ionicframework.com/) [GitHub](https://github.com/driftyco/ionic)
@@ -410,6 +414,10 @@
 ## Rundeck
 
 * [2015-6-25 rundeck部署+rundeck配置mysql元数据库](http://www.ukettle.org/thread-256-1-1.html)
+
+## Scala
+
+* [2016-10-23 利用IntelliJ IDEA与Maven开始你的Scala之旅](https://www.jianshu.com/p/ecc6eb298b8f)
 
 ## Shell
 
