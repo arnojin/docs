@@ -578,6 +578,10 @@
 * [2014-07-09 微信聊天记录怎么提取](http://zhidao.baidu.com/link?url=D8UifUcXIzd_OF4CQkruUESv_GRvkYT58rWlrqkI2z6_CTkbXn28ab90b0lz-yNxU_rF-R8dCV_kkYYfvaLK4e97UD-ZcbMJH5veJWrMHn_)
 * [2016-01-15 Web 微信与基于Node的微信机器人实现](http://reverland.org/javascript/2016/01/15/webchat-user-bot/)
 
+## YARN
+
+** [11. Determine YARN and MapReduce Memory Configuration Settings - Hortonworks Data Platform](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.1/bk_installing_manually_book/content/rpm-chap1-11.html)
+
 ## 其他
 
 * [.NET库、工具、框架和软件的集合](http://www.open-open.com/lib/view/open1413117736593.html)
