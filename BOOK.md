@@ -413,6 +413,8 @@
 
 ## Rundeck
 
+* [Options editor](http://rundeck.org/docs/manual/jobs.html#options-editor)
+* [Passing environment variables through remote command](http://rundeck.org/docs/plugins-user-guide/ssh-plugins.html#passing-environment-variables-through-remote-command)
 * [2015-6-25 rundeck部署+rundeck配置mysql元数据库](http://www.ukettle.org/thread-256-1-1.html)
 
 ## Scala
