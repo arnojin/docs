@@ -18,6 +18,10 @@
 * [2015-01-24 干货：华为花3000万引进的BLM模型](http://www.360doc.com/content/15/0127/20/11190693_444278892.shtml)
 * [2016-11-15 40亿移动设备的用户画像和标签架构实践](http://blog.talkingdata.net/?p=4402)
 
+## ASM
+
+* [2011-04-23 汇编软件MASM和调试工具DEBUG的使用](http://blog.sina.com.cn/s/blog_70dd16910100r5e3.html)
+
 ## Babel
 
 * [Babel · The compiler for writing next generation JavaScript](http://babeljs.io/) [GitHub](https://github.com/babel/babel)
