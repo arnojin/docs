@@ -145,6 +145,7 @@
 * [2016-06-20 GitLab的简单使用](http://www.jianshu.com/p/142b3dc8ae15)
 * [2016-08-03 Windows下Git多账号配置，同一电脑多个ssh-key的管理](http://www.cnblogs.com/popfisher/p/5731232.html)
 * [2016-11-02 (原)使用TortoiseGit提交代码push的时候报错:HTTP 413 curl 22 The requested URL returned error: 413 Request Entity Too Large](http://www.cnblogs.com/lihaiping/p/6021813.html)
+* [2017-03-17 Git版本恢复命令reset和revert](http://blog.csdn.net/xybelieve1990/article/details/62885292)
 * [2017-06-21 git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
 
 ## Hadoop
