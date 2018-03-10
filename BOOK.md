@@ -72,6 +72,7 @@
 
 ## CDH
 
+* [Installing or Upgrading Cloudera Distribution of Apache Spark 2](https://www.cloudera.com/documentation/spark2/latest/topics/spark2_installing.html)
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
 * [2015-10-27 cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
 * [2016-05-26 Cloudera Manager(CDH5)内部结构、功能包括配置文件、目录位置等](http://blog.csdn.net/levy_cui/article/details/51507950)
