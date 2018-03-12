@@ -245,6 +245,7 @@
 
 * [2017-02-28 Kudu，支持快速分析的新型Hadoop存储系统](https://www.cnblogs.com/wuxian11/p/6478581.html)
 * [2017-11-07 kudu和hbase的区别和联系](http://blog.csdn.net/weixin_39478115/article/details/78470294)
+* [2017-12-01 Apache Kudu Troubleshooting](http://kudu.apache.org/docs/troubleshooting.html)
 
 ## kvm 虚拟化
 
