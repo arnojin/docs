@@ -241,6 +241,10 @@
 * [2017-03-19 Kubernetes的ConfigMap说明](https://www.cnblogs.com/breezey/p/6582082.html)
 * [2017-11-20 常用kubectl命令总结](https://www.cnblogs.com/Cherry-Linux/p/7866427.html)
 
+## Kudu
+
+* [2017-11-07 kudu和hbase的区别和联系](http://blog.csdn.net/weixin_39478115/article/details/78470294)
+
 ## kvm 虚拟化
 
 * [KVM](https://help.ubuntu.com/community/KVM)
