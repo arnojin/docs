@@ -508,6 +508,7 @@
 * [2017-02-24 Flume+Kafka+Sparkstreaming日志分析](http://blog.csdn.net/jingqiang521/article/details/56915923)
 * [2017-02-27 WARN YarnClusterScheduler: not accepted any resources](http://blog.sina.com.cn/s/blog_4b1452dd0102wyzo.html)
 * [2017-03-12 [Spark性能调优] 第四章 : Spark Shuffle 中 JVM 内存使用及配置内幕详情](https://www.cnblogs.com/jcchoiling/p/6494652.html)
+* [2017-06-23 CDH5.11 离线安装或者升级spark2.x详细步骤](http://blog.csdn.net/u010936936/article/details/73650417)
 * [2017-12-29 基于CDH 5.9.1 搭建 Hive on Spark 及相关配置和调优](https://www.cnblogs.com/kongcong/p/8144782.html)
 
 ## Spring Boot
