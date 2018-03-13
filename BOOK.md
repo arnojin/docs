@@ -155,7 +155,8 @@
 
 ## Hadoop
 
-* [Hadoop](http://hadoop.apache.org/) [GitHub](https://github.com/apache/hadoop)
+* [Hadoop](http://hadoop.apache.org/) [GitHub hadoop](https://github.com/apache/hadoop) [GitHub winutils](https://github.com/steveloughran/winutils) [hadoop-3.0.0.tar.gz](http://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/common/hadoop-3.0.0/hadoop-3.0.0.tar.gz)
+* [Build and Install Hadoop 2.x or newer on Windows](https://wiki.apache.org/hadoop/Hadoop2OnWindows)
 * [2016-04-23 Apache Hadoop与第三方Hadoop-CDH,HDP,MapR的分析与比较](http://www.lishiyu.cn/post/58.html)
 * [2016-10-09 Hadoop+Spark+MongoDB+MySQL+C#大数据开发项目最佳实践](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650756947&idx=1&sn=57415e19669722cf77233381b2569bb8&chksm=f3f9e2c6c48e6bd084ba4a0958bbd454647727ffae4c6a559a911952ccbb43d1298e59243119&mpshare=1&scene=1&srcid=1009i68VJVUwuT8rBkemeMBu#rd)
 
@@ -470,7 +471,7 @@
 
 ## Spark
 
-* [Spark](http://spark.apache.org/) [GitHub](https://github.com/apache/spark)
+* [Spark](http://spark.apache.org/) [GitHub spark](https://github.com/apache/spark) [spark-2.3.0-bin-hadoop2.7.tgz](https://mirrors.tuna.tsinghua.edu.cn/apache/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz)
 * [Overview - Spark 1.6.0 Documentation](http://spark.apache.org/docs/1.6.0/)
 * [Self-Contained Applications](http://spark.apache.org/docs/1.6.0/quick-start.html#self-contained-applications)
 * [Hadoop之—— WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform...](http://blog.csdn.net/l1028386804/article/details/51538611)
@@ -499,6 +500,7 @@
 * [2015-07-24 Best Practices for YARN Resource Management | MapR](https://mapr.com/blog/best-practices-yarn-resource-management/#.Ve5bLdOqoVU)
 * [2015-09-10 Spark Executor在YARN上的内存分配](http://blog.csdn.net/hammertank/article/details/48346285)
 * [2015-10-10 SparkSQL相关语句总结](https://www.cnblogs.com/yangsy0915/p/4867203.html)
+* [2016-07-16 Spark+Python+Pycharm在Windows下的配置](http://blog.csdn.net/ydq1206/article/details/51922148)
 * [2016-07-30 spark1.6内存管理](https://www.cnblogs.com/dreamfly2016/p/5720526.html)
 * [2016-09-28 scala实战之spark源码修改（能够将DataFrame按字段增量写入mysql数据表）](https://www.2cto.com/net/201609/551130.html)
 * [2016-11-11 SparkStreaming性能调优大全！](http://blog.51cto.com/36006798/1871929)
