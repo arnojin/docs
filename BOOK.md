@@ -167,10 +167,12 @@
 ## Hive
 
 * [LanguageManual Types - Apache Hive - Apache Software Foundation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Types)
+* [GitHub Hive-JSON-Serde](https://github.com/rcongiu/Hive-JSON-Serde) [json-serde-1.3.8-jar-with-dependencies.jar](http://www.congiu.net/hive-json-serde/1.3.8/cdh5/json-serde-1.3.8-jar-with-dependencies.jar)
 * [2014-04-06 Hive.GROUPING SETS的“陷阱”](http://blog.csdn.net/mashroomxl/article/details/23022123)
 * [2015-12-03 Hive_6. 数据聚合 -- Group By & Grouping_SETS & RollUp & CUBE & Having](http://blog.csdn.net/Mike_H/article/details/50161407)
 * [2016-01-09 HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
 * [2016-03-13 Hive中的数据类型和文件格式](http://blog.csdn.net/universe_ant/article/details/50879382)
+* [2016-05-05 如何在Hive中使用Json格式数据](https://yq.aliyun.com/articles/38053)
 * [2016-09-28 几个连接HiveServer的客户端界面工具](http://lxw1234.com/archives/2016/09/723.htm)
 * [2016-11-21 Hive创建表时添加中文注释后乱码问题](http://blog.csdn.net/fenghuibian/article/details/53257579)
 * [2017-01-22 Hive数据类型](http://blog.csdn.net/xiaoqi0531/article/details/54667393)
