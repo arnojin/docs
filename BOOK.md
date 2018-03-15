@@ -28,6 +28,9 @@
 
 ## Beam
 
+* [Apache Beam](https://beam.apache.org/)
+* [Beam Releases](https://beam.apache.org/get-started/downloads/)
+* [Beam Quickstart for Python](https://beam.apache.org/get-started/quickstart-py/)
 * [Apache Beam研究报告](https://m.aliyun.com/yunqi/articles/71057)
 * [跟ApacheBeam学质量控制之道](https://m.aliyun.com/yunqi/articles/113940?spm=5176.11156381.0.0.49a92a3eTDVk8n)
 * [2017-02-10 为什么Google用Apache Beam彻底替换掉MapReduce](http://www.infoq.com/cn/articles/why-google-replace-beam-with-apache-mapreduce/)
