@@ -76,6 +76,7 @@
 ## CDH
 
 * [Installing or Upgrading Cloudera Distribution of Apache Spark 2](https://www.cloudera.com/documentation/spark2/latest/topics/spark2_installing.html)
+* [CDH 5 and Cloudera Manager 5 Requirements and Supported Versions](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rn_consolidated_pcm.html)
 * [2014-09-16 How-to: Install CDH on Mac OSX 10.9 Mavericks](http://blog.cloudera.com/blog/2014/09/how-to-install-cdh-on-mac-osx-10-9-mavericks/)
 * [2015-05-08 CDH5.4 VS HDP2.2](http://www.vesense.com/archives/801)
 * [2015-10-27 cloudera manager和cdh目录空间报警解决](http://blog.csdn.net/zhaomeng1123/article/details/49445329)
