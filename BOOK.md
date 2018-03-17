@@ -293,6 +293,11 @@
 
 * [2016-05-05 记一次ubuntu16.04 lantern安装过程(win用户也可以看看)](http://www.linuxdiyf.com/linux/20345.html)
 
+## Linux
+
+* [2010-11-18 EXT3 vs EXT4 vs XFS vs BTRFS linux filesystems benchmark](http://www.ilsistemista.net/index.php/linux-a-unix/6-linux-filesystems-benchmarked-ext3-vs-ext4-vs-xfs-vs-btrfs.html?start=1)
+* [2013-07-19 ext3，ext4，xfs和btrfs文件系统性能对比](http://www.cnblogs.com/tommyli/p/3201047.html)
+
 ## Machine Learning
 
 * [huxiaoman7/Machine-Learning-Algorithms: 自己总结的机器学习的算法与相应的程序](https://github.com/huxiaoman7/Machine-Learning-Algorithms)
