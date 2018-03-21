@@ -175,6 +175,7 @@
 
 * [LanguageManual Types - Apache Hive - Apache Software Foundation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Types)
 * [GitHub Hive-JSON-Serde](https://github.com/rcongiu/Hive-JSON-Serde) [json-serde-1.3.8-jar-with-dependencies.jar](http://www.congiu.net/hive-json-serde/1.3.8/cdh5/json-serde-1.3.8-jar-with-dependencies.jar)
+* [apache-hive-2.3.2-bin.tar.gz](https://mirrors.tuna.tsinghua.edu.cn/apache/hive/hive-2.3.2/apache-hive-2.3.2-bin.tar.gz)
 * [2014-04-06 Hive.GROUPING SETS的“陷阱”](http://blog.csdn.net/mashroomxl/article/details/23022123)
 * [2015-12-03 Hive_6. 数据聚合 -- Group By & Grouping_SETS & RollUp & CUBE & Having](http://blog.csdn.net/Mike_H/article/details/50161407)
 * [2016-01-09 HIVE Group by、join、distinct等实现原理](https://www.cnblogs.com/cxzdy/p/5116222.html)
