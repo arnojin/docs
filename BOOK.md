@@ -300,6 +300,9 @@
 
 * [2010-11-18 EXT3 vs EXT4 vs XFS vs BTRFS linux filesystems benchmark](http://www.ilsistemista.net/index.php/linux-a-unix/6-linux-filesystems-benchmarked-ext3-vs-ext4-vs-xfs-vs-btrfs.html?limitstart=0)
 * [2013-07-19 ext3，ext4，xfs和btrfs文件系统性能对比](http://www.cnblogs.com/tommyli/p/3201047.html)
+* [2014-11-04 查看linux中的TCP连接数](https://blog.csdn.net/he_jian1/article/details/40787269)
+* [2014-11-24 RHEL 7 & CentOS 7禁用IPV6](https://blog.csdn.net/bluishglc/article/details/41390785)
+* [2015-02-25 系统运维|如何在CentOS 7中禁止IPv6](https://linux.cn/article-4935-1.html)
 
 ## Machine Learning
 
