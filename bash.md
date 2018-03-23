@@ -117,8 +117,7 @@ systemctl status firewalld
 sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 
 # 查看指定端口的网络连接情况，在最下面输出连接数
-netstat -anto | grep :1521 \
-&& echo '连接数' `netstat -anto | grep -i ":1521" | wc -l`
+netstat -anto | grep :1521 && echo '连接数' `netstat -anto | grep -i ":1521" | wc -l`
 
 # 统计 TCP 协议连接情况
 # LISTEN： 侦听来自远方的TCP端口的连接请求
