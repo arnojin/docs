@@ -132,4 +132,14 @@ netstat -anto | grep :1521 && echo '连接数' `netstat -anto | grep -i ":1521" 
 # TIME-WAIT： 等待足够的时间以确保远程TCP接收到连接中断请求的确认
 # CLOSED： 没有任何连接状态
 netstat -ant | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
+
+# 在运行的系统中禁止IPv6
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
+echo 'net.ipv6.conf.all.disable_ipv6 = 1' >> /etc/sysctl.conf
+echo 'net.ipv6.conf.default.disable_ipv6 = 1' >> /etc/sysctl.conf
+ifconfig
+cat /proc/sys/net/ipv6/conf/all/disable_ipv6
+lsmod | grep ipv6
+sysctl -p
 ```
