@@ -376,6 +376,12 @@
 
 * [Mongoose使用案例–让JSON数据直接入库MongoDB](http://blog.fens.me/nodejs-mongoose-json/)
 
+## Netezza
+
+* [Netezza Connector for Apache Spark](https://github.com/SparkTC/spark-netezza)
+* [Maven Spark Netezza](https://mvnrepository.com/artifact/com.ibm.SparkTC/spark-netezza)
+* [2015-09-25 How can I connect to a Netezza database from a Spark SQLContext](https://stackoverflow.com/questions/32787225/how-can-i-connect-to-a-netezza-database-from-a-spark-sqlcontext)
+
 ## Node
 
 * [Node.js](https://nodejs.org/en/) [GitHub](https://github.com/nodejs/node)
