@@ -1,5 +1,9 @@
 # 文章
 
+## Aginity
+
+* [Aginity — big data analytic solutions. | Aginity - Enterprise Analytics Management Software](http://www.aginity.com/)
+
 ## Angular
 
 * [AngularJS](https://github.com/angular/angular.js)
