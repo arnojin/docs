@@ -91,6 +91,7 @@
 * [2017-11-03 CDH安装前置准备](https://mp.weixin.qq.com/s/aGa4vhI3b75ITy3GGr1iFQ)
 * [2018-01-25 如何给Hadoop集群划分角色](https://mp.weixin.qq.com/s/KcTAAo4nrMw-xKCZiChK_w)
 * [2018-02-05 从入门到精通 - Fayson带你玩转CDH](http://mp.weixin.qq.com/s/FgjVnQv6tsnhN_-Fl9vvzA)
+* [2018-03-28 如何在CDH中安装和使用StreamSets](https://mp.weixin.qq.com/s/r7Z8RlAm7az4TMdxFzZs8w)
 
 ## Consul
 
