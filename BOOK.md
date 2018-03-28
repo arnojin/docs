@@ -165,6 +165,7 @@
 * [Hadoop](http://hadoop.apache.org/) [GitHub hadoop](https://github.com/apache/hadoop) [GitHub winutils](https://github.com/steveloughran/winutils) [hadoop-3.0.0.tar.gz](http://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/common/hadoop-3.0.0/hadoop-3.0.0.tar.gz)
 * [Build and Install Hadoop 2.x or newer on Windows](https://wiki.apache.org/hadoop/Hadoop2OnWindows)
 * [2016-04-23 Apache Hadoop与第三方Hadoop-CDH,HDP,MapR的分析与比较](http://www.lishiyu.cn/post/58.html)
+* [2016-05-04 知道Hadoop就够了？这九大技术你也必须了解！](http://blog.sina.com.cn/s/blog_15dd952a70102wo01.html)
 * [2016-10-09 Hadoop+Spark+MongoDB+MySQL+C#大数据开发项目最佳实践](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650756947&idx=1&sn=57415e19669722cf77233381b2569bb8&chksm=f3f9e2c6c48e6bd084ba4a0958bbd454647727ffae4c6a559a911952ccbb43d1298e59243119&mpshare=1&scene=1&srcid=1009i68VJVUwuT8rBkemeMBu#rd)
 
 ## HBase
@@ -568,6 +569,14 @@
 * [SQL As Understood By SQLite](http://www.sqlite.org/lang.html)
 * [SQLite In 5 Minutes Or Less](http://www.sqlite.org/quickstart.html)
 * [Command Line Shell For SQLite](http://www.sqlite.org/cli.html)
+
+## StreamSets 从传统关系型数据库Mysql到Hbase的实时数据采集
+
+* [Data Collector User Guide](https://streamsets.com/documentation/datacollector/latest/help/)
+* [2016-11-08 大数据流难以管理？借助StreamSets来驾驭](http://bigdata.51cto.com/art/201611/520737.htm)
+* [2017-02-12 【Spark Summit EU 2016】使用Spark和StreamSets构建数据通道](https://yq.aliyun.com/articles/69459)
+* [2017-11-14 StreamSets 从传统关系型数据库Mysql到Hbase的实时数据采集](https://blog.csdn.net/u012551524/article/details/78526860)
+* [2018-01-19 StreamSets数据操作平台（数据移动及数据清洗强大工具）](https://blog.csdn.net/superzyl/article/details/79108616)
 
 ## SVN
 
