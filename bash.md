@@ -148,4 +148,10 @@ ifconfig
 cat /proc/sys/net/ipv6/conf/all/disable_ipv6
 lsmod | grep ipv6
 sysctl -p
+
+# 查看用户进程可打开文件数限制
+ulimit -n
+
+# 查看系统文件数限制
+cat /proc/sys/fs/file-max
 ```
