@@ -209,6 +209,7 @@
 
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
 * [2015-03-18 Java8新日期时间API的20个使用示例](http://www.jb51.net/article/62410.htm)
+* [2017-02-07 SecureRandom生成随机数超慢 导致tomcat启动时间过长的解决办法](https://blog.csdn.net/upshi/article/details/54907464)
 * [2017-06-08 Java8新特性之深入解析日期和时间](http://www.jb51.net/article/115720.htm)
 
 ## Jenkins
