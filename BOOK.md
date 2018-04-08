@@ -579,7 +579,7 @@
 * [SQLite In 5 Minutes Or Less](http://www.sqlite.org/quickstart.html)
 * [Command Line Shell For SQLite](http://www.sqlite.org/cli.html)
 
-## StreamSets 从传统关系型数据库Mysql到Hbase的实时数据采集
+## StreamSets
 
 * [Data Collector User Guide](https://streamsets.com/documentation/datacollector/latest/help/)
 * [2016-11-08 大数据流难以管理？借助StreamSets来驾驭](http://bigdata.51cto.com/art/201611/520737.htm)
