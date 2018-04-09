@@ -587,6 +587,7 @@
 * [2017-11-14 StreamSets 从传统关系型数据库Mysql到Hbase的实时数据采集](https://blog.csdn.net/u012551524/article/details/78526860)
 * [2018-01-19 StreamSets数据操作平台（数据移动及数据清洗强大工具）](https://blog.csdn.net/superzyl/article/details/79108616)
 * [2018-04-08 如何使用StreamSets从MySQL增量更新数据到Hive](https://mp.weixin.qq.com/s/nedq6Gpdyc9oPA5mKVWwBw)
+* [2018-04-09 如何使用StreamSets实现MySQL中变化数据实时写入Kudu](https://mp.weixin.qq.com/s/zke3DL4oJS9QUp3t8mcdWA)
 
 ## SVN
 
