@@ -98,6 +98,12 @@
 * [2018-02-05 从入门到精通 - Fayson带你玩转CDH](http://mp.weixin.qq.com/s/FgjVnQv6tsnhN_-Fl9vvzA)
 * [2018-03-28 如何在CDH中安装和使用StreamSets](https://mp.weixin.qq.com/s/r7Z8RlAm7az4TMdxFzZs8w)
 
+## Cloud Computing
+
+* [2014-01-16 云计算的三种服务模式：IaaS，PaaS和SaaS](https://blog.csdn.net/hjxgood/article/details/18363789)
+* [2015-09-06 有哪些通俗易懂的例子可以解释 IaaS、PaaS、SaaS 的区别？](https://www.zhihu.com/question/21641778)
+* [2017-04-03 云计算的三种模式:IaaS、PaaS和SaaS 通俗理解](https://blog.csdn.net/yc_wj/article/details/69053565)
+
 ## Consul
 
 * [Consul](https://www.consul.io/intro/getting-started/install.html)
