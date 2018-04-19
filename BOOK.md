@@ -103,6 +103,7 @@
 * [2014-01-16 云计算的三种服务模式：IaaS，PaaS和SaaS](https://blog.csdn.net/hjxgood/article/details/18363789)
 * [2015-09-06 有哪些通俗易懂的例子可以解释 IaaS、PaaS、SaaS 的区别？](https://www.zhihu.com/question/21641778)
 * [2017-04-03 云计算的三种模式:IaaS、PaaS和SaaS 通俗理解](https://blog.csdn.net/yc_wj/article/details/69053565)
+* [2017-09-12 2017云计算企业百强榜](http://www.enet.com.cn/article/2017/0912/A20170912036664.html)
 
 ## Consul
 
