@@ -374,6 +374,7 @@
 * [2015-12-04 微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936) [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
 * [2016-02-10 微服务实战（六）：选择微服务部署策略](http://dockone.io/article/1066) [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/?[utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
 * [2016-03-08 微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266) [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/?utm_source=service-discovery-in-a-microservices-architecture&utm_medium=blog)
+* [2016-06-08 SOA和微服务架构的区别？](https://www.zhihu.com/question/37808426)
 * [2016-09-07 如何做一个优秀的微服务访问安全设计方案](http://wwwbuild.net/greatops/414179.html)
 * [2016-09-08 王福强谈微服务：系统化考虑交付效率，掌握技术“手感”](http://www.infoq.com/cn/news/2016/09/docker-Scala-Defense-Depth?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
 * [2016-12-08 Authentication Strategies in Microservices Systems](https://www.infoq.com/news/2016/12/microservices-authentication)
