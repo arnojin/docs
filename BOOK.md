@@ -522,6 +522,7 @@
 * [Overview - Spark 1.6.0 Documentation](http://spark.apache.org/docs/1.6.0/)
 * [Self-Contained Applications](http://spark.apache.org/docs/1.6.0/quick-start.html#self-contained-applications)
 * [MongoDB Connector for Spark](https://docs.mongodb.com/spark-connector/current/)
+* [Apache Spark On Kubernetes](https://github.com/apache-spark-on-k8s/spark)
 * [Hadoop之—— WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform...](http://blog.csdn.net/l1028386804/article/details/51538611)
 * [Java + Spark SQL + Hive + Maven简单实现和异常问题](http://blog.csdn.net/a123demi/article/details/70766843)
 * [Spark SQL 官方文档-中文翻译](http://xn--jlq582ax31c.xn--fiqs8s/m/?post=115)
