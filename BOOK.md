@@ -662,6 +662,10 @@
 
 ** [11. Determine YARN and MapReduce Memory Configuration Settings - Hortonworks Data Platform](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.1/bk_installing_manually_book/content/rpm-chap1-11.html)
 
+## Zeppelin
+
+** [Apache Zeppelin](http://zeppelin.apache.org/)
+
 ## 其他
 
 * [.NET库、工具、框架和软件的集合](http://www.open-open.com/lib/view/open1413117736593.html)
