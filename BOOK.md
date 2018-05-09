@@ -328,6 +328,7 @@
 * [2014-11-27 U盘安装CentOS7的最终解决方案](https://www.augsky.com/599.html)
 * [2015-02-25 系统运维|如何在CentOS 7中禁止IPv6](https://linux.cn/article-4935-1.html)
 * [2017-06-21 使用USBWriter做U盘启动盘后容量变小的解决办法](https://blog.csdn.net/wangcg123/article/details/73528780)
+* [2018-01-12 Linux（Centos7.4和RHEL7.4）环境下基于chrony的NTP服务器的构建](https://blog.csdn.net/solaraceboy/article/details/79042323)
 
 ## Machine Learning
 
