@@ -181,6 +181,12 @@
 * [2017-03-17 Git版本恢复命令reset和revert](http://blog.csdn.net/xybelieve1990/article/details/62885292)
 * [2017-06-21 git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
 
+## Go
+
+* [cobra](https://github.com/spf13/cobra)
+* [hugo](https://github.com/gohugoio/hugo)
+* [viper](https://github.com/spf13/viper)
+
 ## Hadoop
 
 * [Hadoop](http://hadoop.apache.org/) [GitHub hadoop](https://github.com/apache/hadoop) [GitHub winutils](https://github.com/steveloughran/winutils) [hadoop-3.0.0.tar.gz](http://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/common/hadoop-3.0.0/hadoop-3.0.0.tar.gz)
