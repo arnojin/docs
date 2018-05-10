@@ -264,6 +264,9 @@
 ## Kubernetes
 
 * [Kubernetes](http://kubernetes.io/) [GitHub](https://github.com/kubernetes/kubernetes)
+* [Installing kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
+* [aliyun kubernetes](https://mirrors.aliyun.com/kubernetes/)
+* [使用kubeadm安装安全高可用kubernetes集群](http://lameleg.com/tech/k8s-offline-install-ha.html)
 * [定位“kubernetes pod卡在ContainerCreating状态”问题的方法](http://blog.csdn.net/xts_huangxin/article/details/51130223)
 * [kubernetes Pod 调度到指定的 Node](http://blog.csdn.net/asdf57847225/article/details/78303190)
 * [Kubernetes用户指南（一）--快速开始、使用k8s配置文件](http://blog.csdn.net/qq1010885678/article/details/48832067)
@@ -279,6 +282,7 @@
 * [2016-04-05 Kubernetes集群高可用方案](http://mt.sohu.com/20160405/n443344559.shtml)
 * [2017-01-09 你想要的百分点大规模Kubernetes集群的应用实践来了](https://zhuanlan.zhihu.com/p/24795783)
 * [2017-03-19 Kubernetes的ConfigMap说明](https://www.cnblogs.com/breezey/p/6582082.html)
+* [2017-09-05 calico网络原理及与flannel对比](https://blog.csdn.net/ganpuzhong42/article/details/77853131)
 * [2017-11-20 常用kubectl命令总结](https://www.cnblogs.com/Cherry-Linux/p/7866427.html)
 
 ## Kudu
