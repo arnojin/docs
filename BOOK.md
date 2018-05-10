@@ -267,6 +267,7 @@
 * [Installing kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
 * [aliyun kubernetes](https://mirrors.aliyun.com/kubernetes/)
 * [使用kubeadm安装安全高可用kubernetes集群](http://lameleg.com/tech/k8s-offline-install-ha.html)
+* [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 * [定位“kubernetes pod卡在ContainerCreating状态”问题的方法](http://blog.csdn.net/xts_huangxin/article/details/51130223)
 * [kubernetes Pod 调度到指定的 Node](http://blog.csdn.net/asdf57847225/article/details/78303190)
 * [Kubernetes用户指南（一）--快速开始、使用k8s配置文件](http://blog.csdn.net/qq1010885678/article/details/48832067)
