@@ -27,6 +27,9 @@ mkdir -p /usr/share/java
 
 # 批量检查日志输出
 tail -f /opt/cm-5.13.1/log/cloudera-scm-agent/* /opt/cm-5.13.1/log/cloudera-scm-server/*
+
+# 将光盘转储为iso镜像文件
+dd if=/dev/cdrom of=name.iso
 ```
 
 ## 内存
