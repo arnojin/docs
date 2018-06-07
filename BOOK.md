@@ -647,6 +647,10 @@
 * [2018-01-17 测试受信任的身份验证](http://onlinehelp.tableau.com/current/server/zh-cn/trusted_auth_testing.htm)
 * [2018-03-07 产品运营，如何做出一份优秀数据报表？](https://www.zhihu.com/question/20565938/answer/334872158)
 
+## TSN（Time Sensitive Network）
+
+* [2017-01-04 传统以太网和时间敏感网络TSN的区别](http://www.proav-china.com/News/16800.html)
+
 ## Travis
 
 * [2013-04-14 利用Travis CI 让你的github项目持续构建(Node.js为例)](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
