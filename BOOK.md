@@ -483,8 +483,10 @@
 ## Python
 
 * [pygame](http://www.pygame.org/download.shtml)
+* [Beautiful Soup 4.4.0 文档 — beautifulsoup 4.4.0q 文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 * [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python)
 * [2013-10-09 pygame系列_pygame安装](http://www.cnblogs.com/hongten/p/hongten_pygame_install.html)
+* [2015-03-10 Python爬虫利器二之Beautiful Soup的用法](https://cuiqingcai.com/1319.html)
 * [2016-06-03 Ubuntu部署python3.5的开发和运行环境](http://www.cnblogs.com/beer/p/5557497.html)
 * [2016-09-08 用 Python 实现 Python 解释器](https://linux.cn/article-7753-1.html?utm_source=weixin)
 * [2017-02-20 一个Python小白5个小时爬虫经历](https://www.cnblogs.com/panzi/p/6421826.html)
