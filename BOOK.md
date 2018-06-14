@@ -487,6 +487,10 @@
 * [2013-10-09 pygame系列_pygame安装](http://www.cnblogs.com/hongten/p/hongten_pygame_install.html)
 * [2016-06-03 Ubuntu部署python3.5的开发和运行环境](http://www.cnblogs.com/beer/p/5557497.html)
 * [2016-09-08 用 Python 实现 Python 解释器](https://linux.cn/article-7753-1.html?utm_source=weixin)
+* [2017-02-20 一个Python小白5个小时爬虫经历](https://www.cnblogs.com/panzi/p/6421826.html)
+* [2017-03-08 python爬虫常用第三方库](https://blog.csdn.net/woshisunchi/article/details/60877817)
+* [2017-11-14 python爬虫相关库安装](https://www.cnblogs.com/copywang/p/7832527.html)
+* [2018-05-03 爬虫-Python爬虫常用库](https://www.cnblogs.com/klb561/p/8988051.html)
 
 ## React
 
