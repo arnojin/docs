@@ -47,6 +47,7 @@
 
 ## Big Data
 
+* [Microsoft Research Open Data](https://msropendata.com/)
 * [数字化转型](http://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)
 * [云上贵州](https://www.gzdata.com.cn/)
 * [chubbyjiang/Bigdata_Components_Guide](https://github.com/chubbyjiang/Bigdata_Components_Guide)
