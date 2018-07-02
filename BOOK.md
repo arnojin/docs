@@ -30,6 +30,10 @@
 
 * [2011-04-23 汇编软件MASM和调试工具DEBUG的使用](http://blog.sina.com.cn/s/blog_70dd16910100r5e3.html)
 
+## Azkaban
+
+* [Azkaban github](https://github.com/azkaban/azkaban)
+
 ## Babel
 
 * [Babel · The compiler for writing next generation JavaScript](http://babeljs.io/) [GitHub](https://github.com/babel/babel)
@@ -505,6 +509,7 @@
 
 ## Rundeck
 
+* [rundeck github](https://github.com/rundeck/rundeck)
 * [Options editor](http://rundeck.org/docs/manual/jobs.html#options-editor)
 * [Passing environment variables through remote command](http://rundeck.org/docs/plugins-user-guide/ssh-plugins.html#passing-environment-variables-through-remote-command)
 * [2015-6-25 rundeck部署+rundeck配置mysql元数据库](http://www.ukettle.org/thread-256-1-1.html)
