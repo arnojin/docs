@@ -816,5 +816,6 @@
 * [2016-11-28 APP无埋点流程](http://www.jianshu.com/p/6f47fc648e69)
 * [2016-12-06 技术大咖告诉你离精准销售预测还有多远？](http://www.baifendian.com/bigdata/423.html)
 * [2016-12-19 APP消息推送（Push），竟然还有这么多你不知道的](http://www.jianshu.com/p/194819dfc76e)
+* [2017-02-15 超实用！常用开源许可证有啥区别](https://blog.csdn.net/linuxnews/article/details/55225755)
 * [2017-02-23 为什么CEO挖的坑，CTO一栽一个准？](https://view.inews.qq.com/a/20170223A040ZJ00)
 * [2017-12-20 macOS 10.13 安装Virtualbox失败](https://www.cnblogs.com/hello-lijj/p/8073236.html)
