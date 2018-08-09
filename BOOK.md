@@ -708,6 +708,11 @@
 
 * [11. Determine YARN and MapReduce Memory Configuration Settings - Hortonworks Data Platform](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.1/bk_installing_manually_book/content/rpm-chap1-11.html)
 
+## Yii
+
+* [Yii PHP Framework](https://www.yiiframework.com/)
+* [2017-04-06 YII框架的使用](https://www.cnblogs.com/bkylee/p/6671967.html)
+
 ## Zeppelin
 
 * [Apache Zeppelin](http://zeppelin.apache.org/)
