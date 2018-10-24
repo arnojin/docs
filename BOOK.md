@@ -486,6 +486,11 @@
 
 * [OSGi.NET 最简单强大的插件框架 - iOpenWorks.com](http://www.iOpenWorks.com) [文档](http://www.iopenworks.com/Documents/DocumentsList) [视频](http://www.iopenworks.com/Documents/DocumentsList/UserGuide_OSGi_Design_Overview) [介绍](http://www.cnblogs.com/baihmpgy/archive/2010/05/05/1727626.html)
 
+## PHP
+
+* [Configuring Xdebug](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
+* [2018-01-31 php 安装xdebug进行调试（phpstorm）](https://www.cnblogs.com/zengguowang/p/8391227.html)
+
 ## Putty
 
 * [putty使用之保持连接不要自动断开](http://www.putty.ws/putty-lianjie)
