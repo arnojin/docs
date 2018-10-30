@@ -700,6 +700,10 @@
 * [2012-02-15 OpenVPN：an error ocurred installing TAP device解决方法](http://blog.csdn.net/cserchen/article/details/7260511)
 * [2015-01-28 How To Set Up an OpenVPN Server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04)
 
+## Vue
+
+* [2018-01-03 vue调试工具vue-devtools的安装](https://blog.csdn.net/lzy_1112/article/details/78960744)
+
 ## WeChat
 
 * [微信：PC客户端自定义插件接口](https://mp.weixin.qq.com/wiki/17/0160b650bc11ca90776343276e91082d.html)
