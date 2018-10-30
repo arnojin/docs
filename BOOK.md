@@ -703,6 +703,7 @@
 ## Vue
 
 * [2018-01-03 vue调试工具vue-devtools的安装](https://blog.csdn.net/lzy_1112/article/details/78960744)
+* [2018-06-11 VUE组件汇总](https://blog.csdn.net/osdfhv/article/details/80657617)
 
 ## WeChat
 
