@@ -723,6 +723,8 @@
 
 * [Yii PHP Framework](https://www.yiiframework.com/)
 * [2017-04-06 YII框架的使用](https://www.cnblogs.com/bkylee/p/6671967.html)
+* [2017-04-10 是时候使用Vue2和Yii2进行前后端分离开发啦](http://developer.51cto.com/art/201704/536636.htm)
+* [2018-05-04 yii2和vue之间的跨域问题](https://www.yiichina.com/topic/7548?sort=desc)
 
 ## Zeppelin
 
