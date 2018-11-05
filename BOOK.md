@@ -490,6 +490,8 @@
 ## PHP
 
 * [Configuring Xdebug](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
+* [2016-04-27 CORS 跨域 access-control-allow-headers 的问题](https://blog.csdn.net/badboyer/article/details/51261083)
+* [2017-04-01 如何处理前端js跨域问题](https://segmentfault.com/a/1190000008913233)
 * [2018-01-27 Docker PHP7官方镜像安装Redies扩展](https://my.oschina.net/u/248080/blog/1613937)
 * [2018-01-31 php 安装xdebug进行调试（phpstorm）](https://www.cnblogs.com/zengguowang/p/8391227.html)
 * [2018-02-22 用Docker打造多版本PHP运行环境](https://my.oschina.net/u/248080/blog/1622690)
@@ -725,7 +727,6 @@
 
 * [Yii PHP Framework](https://www.yiiframework.com/)
 * [2015-12-25 Yii2 Day 11 添加微信第三方登录](https://my.oschina.net/u/248080/blog/551190)
-* [2016-04-27 CORS 跨域 access-control-allow-headers 的问题](https://blog.csdn.net/badboyer/article/details/51261083)
 * [2017-04-06 YII框架的使用](https://www.cnblogs.com/bkylee/p/6671967.html)
 * [2017-04-08 是时候使用Vue2和Yii2进行前后端分离开发啦](https://my.oschina.net/u/248080/blog/875243)
 * [2017-10-29 使用Docker搭建Yii2本地开发环境](https://my.oschina.net/u/248080/blog/1557902)
