@@ -725,6 +725,7 @@
 
 * [Yii PHP Framework](https://www.yiiframework.com/)
 * [2015-12-25 Yii2 Day 11 添加微信第三方登录](https://my.oschina.net/u/248080/blog/551190)
+* [2016-04-27 CORS 跨域 access-control-allow-headers 的问题](https://blog.csdn.net/badboyer/article/details/51261083)
 * [2017-04-06 YII框架的使用](https://www.cnblogs.com/bkylee/p/6671967.html)
 * [2017-04-08 是时候使用Vue2和Yii2进行前后端分离开发啦](https://my.oschina.net/u/248080/blog/875243)
 * [2017-10-29 使用Docker搭建Yii2本地开发环境](https://my.oschina.net/u/248080/blog/1557902)
