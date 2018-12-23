@@ -735,6 +735,8 @@
 ## Yii
 
 * [Yii PHP Framework](https://www.yiiframework.com/)
+* [2012-07-31 createCommand delete :not in where??](https://forum.yiiframework.com/t/createcommand-delete-not-in-where/52774/11)
+* [2014-03-21 Property *** is not defined.](https://bugs.limesurvey.org/view.php?id=8888)
 * [2015-12-25 Yii2 Day 11 添加微信第三方登录](https://my.oschina.net/u/248080/blog/551190)
 * [2017-04-06 YII框架的使用](https://www.cnblogs.com/bkylee/p/6671967.html)
 * [2017-04-08 是时候使用Vue2和Yii2进行前后端分离开发啦](https://my.oschina.net/u/248080/blog/875243)
