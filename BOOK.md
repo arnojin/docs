@@ -538,6 +538,11 @@
 
 * [2016-10-23 利用IntelliJ IDEA与Maven开始你的Scala之旅](https://www.jianshu.com/p/ecc6eb298b8f)
 
+## Shadowsocks
+
+* [Shadowsocks GitHub](https://github.com/shadowsocks/shadowsocks-windows)
+* [gfwlist GitHub](https://github.com/gfwlist/gfwlist)
+
 ## Shell
 
 * [2009-03-24 Check if a program exists from a Bash script](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script/677212#677212)
