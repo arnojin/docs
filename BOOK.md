@@ -541,6 +541,7 @@
 ## Shadowsocks
 
 * [Shadowsocks GitHub](https://github.com/shadowsocks/shadowsocks-windows)
+* [shadowsocks-go GitHub](https://github.com/shadowsocks/shadowsocks-go)
 * [gfwlist GitHub](https://github.com/gfwlist/gfwlist)
 
 ## Shell
