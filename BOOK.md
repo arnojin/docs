@@ -456,6 +456,7 @@
 * [2014-10-28 Nginx反向代理关于端口的问题](https://www.cnblogs.com/likehua/p/4056625.html)
 * [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
 * [2017-01-04 Nginx实现多域名证书HTTPS](http://www.cnblogs.com/kabi/p/6247561.html)
+* [2018-05-16 Nginx 支持websocket的配置](https://blog.csdn.net/weixin_37264997/article/details/80341911)
 
 ## OAuth
 
