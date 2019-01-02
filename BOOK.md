@@ -190,6 +190,7 @@
 * [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
 * [2014-07-23 git服务器gitlab之搭建和使用](http://blog.csdn.net/zy416548283/article/details/38057925)
 * [2014-08-23 GitLab版本管理](http://www.cnblogs.com/wintersun/p/3930900.html)
+* [2015-10-10 Git如何Check Out出指定文件或者文件夹](https://blog.csdn.net/linlzk/article/details/49019787)
 * [2015-10-22 Windows下使用git push命令的无密码设置](http://blog.csdn.net/dream_angel_z/article/details/49335607)
 * [2016-06-20 GitLab的简单使用](http://www.jianshu.com/p/142b3dc8ae15)
 * [2016-08-03 Windows下Git多账号配置，同一电脑多个ssh-key的管理](http://www.cnblogs.com/popfisher/p/5731232.html)
