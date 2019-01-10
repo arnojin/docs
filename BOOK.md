@@ -388,6 +388,7 @@
 * [Maven Repository: org.apache.hive » hive-jdbc » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-jdbc/1.1.0-cdh5.12.0)
 * [Maven Repository: org.apache.hive » hive-exec » 1.1.0-cdh5.12.0](https://mvnrepository.com/artifact/org.apache.hive/hive-exec/1.1.0-cdh5.12.0)
 * [maven中加载Oracle驱动报错问题](http://blog.csdn.net/maobois/article/details/51884179)
+* [2016-06-07 Spring Boot下无法加载主类 org.apache.maven.wrapper.MavenWrapperMain问题解决](http://blog.csdn.net/blueheart20/article/details/51601441)
 * [2017-03-16 Maven中添加Oracle jdbc jar包](http://blog.csdn.net/princeluan/article/details/62298902)
 * [2016-10-12 intellij 出现“Usage of API documented as @since 1.6+”的解决办法](https://www.cnblogs.com/cxj20160928/p/5954196.html)
 
