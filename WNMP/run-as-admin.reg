@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]
+"D:\\work\\nginx-start.bat"="~ RUNASADMIN"
+"D:\\work\\nginx-quit.bat"="~ RUNASADMIN"
+"D:\\work\\nginx-reload.bat"="~ RUNASADMIN"
+"D:\\work\\mariadb-start.bat"="~ RUNASADMIN"
+"D:\\work\\mariadb-shutdown.bat"="~ RUNASADMIN"
+"D:\\work\\php-fpm-start.bat"="~ RUNASADMIN"
