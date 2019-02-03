@@ -1,0 +1,1 @@
+@d:\work\php\php -c d:\work\config\php\php.ini "%~dp0composer.phar" %*

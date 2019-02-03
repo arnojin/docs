@@ -279,3 +279,19 @@ mkdir d:\work\www
     127.0.0.1 demo.local
     ```
 * 通过 http://demo.local/ 测试是否显示了 phpinfo 信息
+
+### 安装 composer
+
+* 安装 composer
+    ```powershell
+    php -c d:\work\config\php\php.ini -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+    php -c d:\work\config\php\php.ini -r "if (hash_file('sha384', 'composer-setup.php') === '48e3236262b34d30969dca3c37281b3b4bbe3221bda826ac6a9a62d6444cdb0dcd0615698a5cbe587c3f0fe57a54d8f5') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+    php -c d:\work\config\php\php.ini composer-setup.php --install-dir=D:\work\composer
+    php -c d:\work\config\php\php.ini -r "unlink('composer-setup.php');"
+    ```
+
+* 增加脚本
+    ```powershell
+    @d:\work\php\php -c d:\work\config\php\php.ini "%~dp0composer.phar" %*
+    composer --version
+    ```
