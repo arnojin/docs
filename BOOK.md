@@ -735,6 +735,7 @@
 ## Vue
 
 * [2016-08-19 前端面试题整理](https://www.cnblogs.com/haoyijing/p/5789348.html)
+* [2016-10-20 Chrome开发者工具详解(2)-Network面板](https://www.cnblogs.com/LibraThinker/p/5981346.html)
 * [2018-01-03 vue调试工具vue-devtools的安装](https://blog.csdn.net/lzy_1112/article/details/78960744)
 * [2018-06-11 VUE组件汇总](https://blog.csdn.net/osdfhv/article/details/80657617)
 * [2018-07-19 vue通过（NGINX）部署在子目录或者二级目录实践](https://www.cnblogs.com/liugx/p/9336176.html)
