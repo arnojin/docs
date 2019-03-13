@@ -539,6 +539,7 @@
 
 * [2016-05-29 阿里云ECS+CentOS 7.0+Docker+Redmine环境搭建](http://www.cnblogs.com/iluzhiyong/p/redmine.html)
 * [2018-04-13 gitlab与redmine深度集成教程](https://www.jianshu.com/p/710e3444f487)
+* [2019-01-29 gitlab commit 集成 redmine issue](https://blog.csdn.net/u012731379/article/details/86689333)
 
 ## Rundeck
 
