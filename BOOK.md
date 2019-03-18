@@ -308,6 +308,7 @@
 * [2017-03-19 Kubernetes的ConfigMap说明](https://www.cnblogs.com/breezey/p/6582082.html)
 * [2017-09-05 calico网络原理及与flannel对比](https://blog.csdn.net/ganpuzhong42/article/details/77853131)
 * [2017-11-20 常用kubectl命令总结](https://www.cnblogs.com/Cherry-Linux/p/7866427.html)
+* [2018-06-11 k8sQ&A：no space left on device](https://blog.csdn.net/xiaofang2015/article/details/80649548)
 
 ## Kudu
 
