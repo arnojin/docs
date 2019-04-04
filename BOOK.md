@@ -513,6 +513,7 @@
 * [2018-01-31 php 安装xdebug进行调试（phpstorm）](https://www.cnblogs.com/zengguowang/p/8391227.html)
 * [2018-02-22 用Docker打造多版本PHP运行环境](https://my.oschina.net/u/248080/blog/1622690)
 * [2018-07-06 Visual Studio Code中使用Docker中的Xdebug](http://futuremeng.com/?p=5209)
+* [2018-10-01 PhpStorm连接Docker容器配置xdebug断点调试](https://www.cnblogs.com/jun1019/p/9735250.html)
 
 ## Putty
 
