@@ -354,6 +354,11 @@
 
 * [2016-05-05 记一次ubuntu16.04 lantern安装过程(win用户也可以看看)](http://www.linuxdiyf.com/linux/20345.html)
 
+## Laravel
+
+* [2018-06-04 Using GitLab's pipeline with Laravel](https://lorisleiva.com/using-gitlabs-pipeline-with-laravel/)
+* [2018-06-08 Laravel deployment using GitLab's pipelines](https://lorisleiva.com/laravel-deployment-using-gitlab-pipelines/)
+
 ## Linux
 
 * [2010-11-18 EXT3 vs EXT4 vs XFS vs BTRFS linux filesystems benchmark](http://www.ilsistemista.net/index.php/linux-a-unix/6-linux-filesystems-benchmarked-ext3-vs-ext4-vs-xfs-vs-btrfs.html?limitstart=0)
