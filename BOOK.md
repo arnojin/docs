@@ -452,6 +452,9 @@
 ## NET
 
 * [2015-03-11 linux下抓包工具tcpdump详解](https://www.cnblogs.com/Jtianlin/p/4330723.html)
+* [2015-07-25 ubuntu 14.04搭建OpenVPN服务器](https://www.ilanni.com/?p=9837)
+* [2015-08-02 openvpn tun模式下客户端与内网机器通信](https://www.ilanni.com/?p=9877)
+* [2015-10-07 openvpn双网卡客户端与内网机器通信](https://www.ilanni.com/?p=10501)
 * [2017-11-24 iptables转发技术](http://www.cnblogs.com/ssooking/p/7890192.html)
 
 ## Netbeans
