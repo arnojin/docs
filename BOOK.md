@@ -449,8 +449,13 @@
 
 * [NATAPP基于ngrok的国内高速内网穿透服务](https://natapp.cn/)
 
+## NET
+
+* [2017-11-24 iptables转发技术](http://www.cnblogs.com/ssooking/p/7890192.html)
+
 ## Netbeans
 
+* [2015-03-11 linux下抓包工具tcpdump详解](https://www.cnblogs.com/Jtianlin/p/4330723.html)
 * [2016-10-25 Netbeans 8.1启动参数设置](https://blog.csdn.net/rickqin/article/details/52917188)
 
 ## Netezza
