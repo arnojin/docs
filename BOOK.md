@@ -456,7 +456,6 @@
 
 ## Netbeans
 
-* [2015-03-11 linux下抓包工具tcpdump详解](https://www.cnblogs.com/Jtianlin/p/4330723.html)
 * [2016-10-25 Netbeans 8.1启动参数设置](https://blog.csdn.net/rickqin/article/details/52917188)
 
 ## Netezza
