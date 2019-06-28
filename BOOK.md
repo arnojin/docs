@@ -544,6 +544,7 @@
 * [2016-09-08 用 Python 实现 Python 解释器](https://linux.cn/article-7753-1.html?utm_source=weixin)
 * [2017-02-20 一个Python小白5个小时爬虫经历](https://www.cnblogs.com/panzi/p/6421826.html)
 * [2017-03-08 python爬虫常用第三方库](https://blog.csdn.net/woshisunchi/article/details/60877817)
+* [2017-05-27 Linux中python3.6+ipython+Jupyter Notebook环境](https://www.jianshu.com/p/0133f79a12db)
 * [2017-11-14 python爬虫相关库安装](https://www.cnblogs.com/copywang/p/7832527.html)
 * [2018-05-03 爬虫-Python爬虫常用库](https://www.cnblogs.com/klb561/p/8988051.html)
 
