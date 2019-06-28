@@ -548,6 +548,7 @@
 * [2017-11-14 python爬虫相关库安装](https://www.cnblogs.com/copywang/p/7832527.html)
 * [2018-05-03 爬虫-Python爬虫常用库](https://www.cnblogs.com/klb561/p/8988051.html)
 * [2018-05-10 Anaconda3详细安装使用教程及问题总结](https://www.jianshu.com/p/026a2c43b081)
+* [2018-07-14 anaconda python 版本对应关系](https://blog.csdn.net/yuejisuo1948/article/details/81043823)
 
 ## React
 
