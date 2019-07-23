@@ -482,6 +482,7 @@
 * [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
 * [2017-01-04 Nginx实现多域名证书HTTPS](http://www.cnblogs.com/kabi/p/6247561.html)
 * [2018-05-16 Nginx 支持websocket的配置](https://blog.csdn.net/weixin_37264997/article/details/80341911)
+* [2019-03-26 nginx的location，upstream，rewrite 和 proxy_pass使用，以及需要注意的地方](https://blog.csdn.net/zhanglei082319/article/details/88830606)
 
 ## OAuth
 
