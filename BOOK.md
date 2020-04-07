@@ -8,6 +8,10 @@
 
 * [AirFlow](https://airflow.apache.org/) [github](https://github.com/apache/airflow)
 
+## Anaconda
+
+* [Anaconda 清华源镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+
 ## Angular
 
 * [AngularJS](https://github.com/angular/angular.js)
