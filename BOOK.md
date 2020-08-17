@@ -12,6 +12,10 @@
 
 * [Anaconda 清华源镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 
+## Android
+
+* [Android Studio配置文件路径修改](https://www.jianshu.com/p/7a58c5f154c5)
+
 ## Angular
 
 * [AngularJS](https://github.com/angular/angular.js)
