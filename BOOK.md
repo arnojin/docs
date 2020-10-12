@@ -569,6 +569,10 @@
 * [2018-04-13 gitlab与redmine深度集成教程](https://www.jianshu.com/p/710e3444f487)
 * [2019-01-29 gitlab commit 集成 redmine issue](https://blog.csdn.net/u012731379/article/details/86689333)
 
+## RPA(Robotic Process Automation)
+
+* [艾瑞咨询：2020年中国RPA行业研究报告](https://www.sohu.com/a/423359023_445326)
+
 ## Rundeck
 
 * [rundeck github](https://github.com/rundeck/rundeck)
