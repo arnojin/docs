@@ -228,13 +228,15 @@ mkdir d:\work\www
     mssql.secure_connection=Off
     
     [xdebug]
+    ; PHP 7.4.15 + php_xdebug-3.0.2-7.4-vc15-x86_64.dll
+    ; 部分配置的名称做了如下调整
     zend_extension = "D:/work/php/ext/php_xdebug.dll"
     xdebug.idekey=phpstorm
     xdebug.mode=debug
     xdebug.client_host=localhost
     xdebug.client_port=9003
     xdebug.remote_handler=dbgp
-    xdebug.mode=trace
+    xdebug.mode=debug
     xdebug.start_with_request=yes
     ```
 * 执行脚本
