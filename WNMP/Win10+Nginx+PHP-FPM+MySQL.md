@@ -228,16 +228,14 @@ mkdir d:\work\www
     mssql.secure_connection=Off
     
     [xdebug]
-    ;zend_extension 的值根据自己的本地环境填写
-    zend_extension = "D:\work\php\ext\php_xdebug-2.6.1-7.2-vc15-x86_64.dll"
+    zend_extension = "D:/work/php/ext/php_xdebug.dll"
     xdebug.idekey=phpstorm
-    ;xdebug.idekey=netbeans-xdebug
-    xdebug.remote_enable = On
-    xdebug.remote_host=localhost
-    ;xdebug.remote_port 默认值为9000，这里需要跟phpstorm配置一致
-    xdebug.remote_port=9000
+    xdebug.mode=debug
+    xdebug.client_host=localhost
+    xdebug.client_port=9003
     xdebug.remote_handler=dbgp
-    xdebug.auto_trace = On
+    xdebug.mode=trace
+    xdebug.start_with_request=yes
     ```
 * 执行脚本
   ```powershell
