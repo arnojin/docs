@@ -189,6 +189,29 @@
 
 * [Express](http://expressjs.com/) [GitHub](https://github.com/expressjs/express) | [hapi](http://hapijs.com/) [GitHub](https://github.com/hapijs/hapi)
 
+## [FFmpeg](https://www.ffmpeg.org/doxygen/4.1/index.html)
+
+* [GitHub ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial#chapter-3---transcoding)
+* [GitHub digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction.git)
+* [2012-02-13 【整理】Libav FFmpeg mplayer VLC开源项目 FFDshow](https://blog.csdn.net/conowen/article/details/7255776)
+* [2013-03-14 Java+Windows+ffmpeg实现视频转换](https://www.cnblogs.com/findingsea/archive/2013/03/14/2959634.html)
+* [2015-02-01 An ffmpeg and SDL Tutorial or How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/)
+* [2015-02-23 雷霄骅 最简单的视频网站（JavaEE+FFmpeg）](https://blog.csdn.net/leixiaohua1020/article/details/43870599?spm=1001.2014.3001.5501) [GitEE](https://gitee.com/leixiaohua1020/simplest_video_website)
+* [2015-06-08  ffmpeg：编解码过程，基本用法](https://www.cnblogs.com/zxqstrong/p/4555517.html)
+* [2016-02-01 雷霄骅 最简单的基于FFmpeg的AVfilter的例子-纯净版](https://blog.csdn.net/leixiaohua1020/article/details/50618190?spm=1001.2014.3001.5501) [GitEE](https://gitee.com/leixiaohua1020/simplest_ffmpeg_video_filter)
+* [2016-06-03 gstreamer，vlc，ffmpeg比较](https://blog.csdn.net/rocvfx/article/details/51577322)
+* [2016-09-23 FFmpeg学习6：视音频同步](https://www.cnblogs.com/wangguchangqing/p/5900426.html)
+* [2018-06-04 FFMPEG ENCODING AND EDITING COURSE](http://slhck.info/ffmpeg-encoding-course/#/)
+* [2018-09-12 13 C#开发FFMPEG例子(API方式) FFmpeg拉取RTMP流并播放](https://blog.csdn.net/vanjoge/article/details/79657874)
+* [2018-09-28 javaCV入门指南：序章](https://blog.csdn.net/eguid_1/article/details/82875343)
+* [2019-01-05 linux 系统下安装ffmpeg](https://blog.csdn.net/fanghuainihao/article/details/85860955)
+* [2019-01-05 java项目中使用ffmpeg剪辑部分视频](https://blog.csdn.net/fanghuainihao/article/details/85859186)
+* [2019-06-07 使用 VS2015 编译并调试 ffmpeg](https://www.cnblogs.com/BensonLaur/p/10989115.html)
+* [2020-01-14 FFmpeg 视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
+* [2020-05-08 关于使用ffmpeg的一些牢骚](https://www.cnblogs.com/shelwinnee/p/12849798.html)
+* [2020-06-09 JAVA使用JAVACV实现图片合成短视频，并给视频添加音频！！！](https://cloud.tencent.com/developer/article/1640244)
+* [2020-09-27 Java通过Javacv,FFmpeg对音频进行剪辑](https://trashcode.cn/post/d/7330327e-6118-48a1-96e8-cd990effe91b)
+* [2020-09-30 视频解码opencv ffmpeg decord三种方式速度对比](https://blog.csdn.net/leng_yan/article/details/108888334)
 
 ## Flume
 
