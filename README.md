@@ -549,6 +549,10 @@
 
 * [OSGi.NET 最简单强大的插件框架 - iOpenWorks.com](http://www.iOpenWorks.com) [文档](http://www.iopenworks.com/Documents/DocumentsList) [视频](http://www.iopenworks.com/Documents/DocumentsList/UserGuide_OSGi_Design_Overview) [介绍](http://www.cnblogs.com/baihmpgy/archive/2010/05/05/1727626.html)
 
+## PE Explorer
+
+* [破解“PE Explorer”1.40版](https://blog.csdn.net/u013064372/article/details/17228747)
+
 ## PHP
 
 * [Configuring Xdebug](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
